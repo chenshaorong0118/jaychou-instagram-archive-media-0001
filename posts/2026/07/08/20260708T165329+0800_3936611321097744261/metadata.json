@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "pk": "3936611321097744261",
+  "item_type": "post",
+  "published_at_utc": "2026-07-08T08:53:29Z",
+  "published_at_taipei": "2026-07-08T16:53:29+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:35:19Z",
+  "caption": "What do you think my music is, anyway? 😜\nAfter watching the music video, is it even harder to put it into a category? I guess it’s just… Jay style. ✌🏻🎶\nOh, and the vinyl you’ve all been waiting for is almost here!",
+  "visible_text": null,
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "video",
+      "assets": [
+        {
+          "role": "primary_video",
+          "filename": "01-video.mp4",
+          "origin": "instagram",
+          "mime_type": "video/mp4",
+          "width": 1916,
+          "height": 1078,
+          "video_codec": "vp9",
+          "audio_codec": "aac",
+          "duration_ms": 79167,
+          "bytes": 18332116,
+          "sha256": "22bdc383d65454789146baae9d665307ac07983558a3e5f00458e67d524bd8e1"
+        },
+        {
+          "role": "video_poster",
+          "filename": "01-video-poster.jpg",
+          "origin": "derived_render",
+          "mime_type": "image/jpeg",
+          "width": 1916,
+          "height": 1078,
+          "bytes": 187317,
+          "sha256": "40a8cff3091fad59dd61a1a2c9caecb2f286757baad42b04b6b4f19781ac62be",
+          "derived_from": [
+            "22bdc383d65454789146baae9d665307ac07983558a3e5f00458e67d524bd8e1"
+          ]
+        }
+      ]
+    }
+  ]
+}

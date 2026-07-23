@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3939992179847467043",
+  "item_type": "story",
+  "published_at_utc": "2026-07-13T00:48:09Z",
+  "published_at_taipei": "2026-07-13T08:48:09+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of champagne, top, bottle and text.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 315208,
+          "sha256": "a6e29cec2785733a66d476264ff7efe4b0266b90e04a1405a8010e4a7683a3bc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3941030288534257357",
+  "item_type": "story",
+  "published_at_utc": "2026-07-14T11:10:41Z",
+  "published_at_taipei": "2026-07-14T19:10:41+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of one or more people, hat and text that says '這個笨蛋把化妝的給我忘在 飛機上 都來到工作現場了. ··· 你們說我該怎麽懲罰他'.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 305923,
+          "sha256": "376e78986ecb4ba299f40fbd0ff46e7ada8625d5d58f4678dd38d6eb9774086e"
+        }
+      ]
+    }
+  ]
+}

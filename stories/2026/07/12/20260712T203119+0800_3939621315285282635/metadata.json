@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3939621315285282635",
+  "item_type": "story",
+  "published_at_utc": "2026-07-12T12:31:19Z",
+  "published_at_taipei": "2026-07-12T20:31:19+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be a selfie of one or more people, hair, car, seatbelt, limousine and text that says 'ਦਹ MAmpezn o 크남스Nㅋ그 @hannah_quinlivan quinlivan Channah_'.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 138810,
+          "sha256": "517d2b753f3b51a526f6a03b72d1a9ed98be6c7b910fe35601b9295e1d1d101d"
+        }
+      ]
+    }
+  ]
+}

@@ -6,10 +6,10 @@
 
 This repository stores verified archive media and item-level metadata. Cross-repository search and visual timelines live in the main index repository.
 
-- Items / 条目：18
-- Public assets / 公开资产：46
-- Media bytes / 媒体字节：47293558
-- Range / 时间范围：2026-07-14T16:16:53+08:00 — 2026-07-23T11:09:40+08:00
+- Items / 条目：57
+- Public assets / 公开资产：104
+- Media bytes / 媒体字节：98108650
+- Range / 时间范围：2026-07-04T23:08:41+08:00 — 2026-07-23T11:09:40+08:00
 
 Run `python3 tools/verify_media.py .` to verify the shard.
 

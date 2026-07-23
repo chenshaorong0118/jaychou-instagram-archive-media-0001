@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3939986887718060182",
+  "item_type": "story",
+  "published_at_utc": "2026-07-13T00:37:39Z",
+  "published_at_taipei": "2026-07-13T08:37:39+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of champagne, bottle and text that says 'OPOLE 001 CONTI EIETE DOMAINE DOMAINEDELA DE CONTI (COTE-D MCFRNETAIRE CIVILE DU AVOSNE AVOSNE-ROMANEE DOMAINE DE L บ LA ROMANEE OR) FRANCES YOSNE-ROMANEE DOMAINE ROMANÉE (co ION ROMANÉE-CONTI CONTROLÉE CHEBO EBO APPELLATION Beuteilles Récellieo GERANTE 185 Bouteilles K RICHEBOURG 0224 2001 LES SSOCIES-O Hime-Trikenehar Rach U-aaing HBuHe A.d. de 02837 WHEE 02837 outeilles 2015 Miser LES AO Heйc- Eontrille eenl clamarina A. Br den'.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 196180,
+          "sha256": "92b50fb51c8eae9da859f4a9c174a5eddada7451026026fd62c83a2fab957967"
+        }
+      ]
+    }
+  ]
+}

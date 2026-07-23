@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "pk": "18439019899193087",
+  "item_type": "story",
+  "published_at_utc": "2026-07-09T17:50:45Z",
+  "published_at_taipei": "2026-07-10T01:50:45+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "jaychou 14小时 video story",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "video",
+      "assets": [
+        {
+          "role": "primary_video",
+          "filename": "01-video.mp4",
+          "origin": "instagram",
+          "mime_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "video_codec": "vp9",
+          "duration_ms": 5000,
+          "bytes": 222577,
+          "sha256": "50bfef3b1703f9de26b36f64acb6aae555042b35e9d8f646fb82c7fc9dc12789"
+        },
+        {
+          "role": "video_poster",
+          "filename": "01-video-poster.jpg",
+          "origin": "derived_render",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1920,
+          "bytes": 208640,
+          "sha256": "da554ea75528ed6a580684d8e80e8f2a8f4f149b24089dd7067818a7caeeed32",
+          "derived_from": [
+            "50bfef3b1703f9de26b36f64acb6aae555042b35e9d8f646fb82c7fc9dc12789"
+          ]
+        }
+      ]
+    }
+  ]
+}

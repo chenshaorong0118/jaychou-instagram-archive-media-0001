@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3939554638543586133",
+  "item_type": "story",
+  "published_at_utc": "2026-07-12T10:18:50Z",
+  "published_at_taipei": "2026-07-12T18:18:50+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of one or more people, phone, top, outdoors and text.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 174894,
+          "sha256": "e0acea0c2b3d41c52fcd0e27edc0ec3665df22380906eb5d9cb11c7f74af279e"
+        }
+      ]
+    }
+  ]
+}

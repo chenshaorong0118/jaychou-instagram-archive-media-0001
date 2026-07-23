@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3941032224952029107",
+  "item_type": "story",
+  "published_at_utc": "2026-07-14T11:14:32Z",
+  "published_at_taipei": "2026-07-14T19:14:32+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of text that says '剛剛到了現場他還以為在別 的車上 的車上等等就到了後來才發 後來才發 等等就到了 現 現根本沒下飛機国全部人工 ক 見根本沒下飛機 全部人工 作人員都在等 大家幫我想想 幫我想想到底要怎麽懲 到底要怎麽像 罰他 前他 歡迎提問 輸入内容......'.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 232336,
+          "sha256": "55504204c5f3c8369dbee6258b07375b3a4fee67c35be31e04518d8d139d554b"
+        }
+      ]
+    }
+  ]
+}

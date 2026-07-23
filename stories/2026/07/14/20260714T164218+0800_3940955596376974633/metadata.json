@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3940955596376974633",
+  "item_type": "story",
+  "published_at_utc": "2026-07-14T08:42:18Z",
+  "published_at_taipei": "2026-07-14T16:42:18+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of one or more people and text that says 'LutOn 5I Watford. Lon Runnymede Crawl Brigh 又來了 又來了makeup_ado makeup_ado ado'.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 327593,
+          "sha256": "07e9e96d66e4a3f47fbd4a93f2a815a9dc53a6e54ab2406843763c8b9f43f3be"
+        }
+      ]
+    }
+  ]
+}

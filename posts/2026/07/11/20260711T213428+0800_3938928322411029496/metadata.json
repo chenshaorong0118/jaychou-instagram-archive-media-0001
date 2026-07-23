@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "pk": "3938928322411029496",
+  "item_type": "post",
+  "published_at_utc": "2026-07-11T13:34:28Z",
+  "published_at_taipei": "2026-07-11T21:34:28+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:34:05Z",
+  "caption": "Happy to be back at Wimbledon once again. Even though Roger and I didn’t get to play a doubles exhibition match this time, it was still wonderful to see my old friend.",
+  "visible_text": null,
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 931,
+          "height": 660,
+          "bytes": 167345,
+          "sha256": "945d7ed4f4a8664990ffe484a0b928d653832f8c076b33950952816e800b4c65"
+        }
+      ]
+    },
+    {
+      "media_index": 2,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "02-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1357,
+          "height": 959,
+          "bytes": 163722,
+          "sha256": "2e7da8925659148f60252b30cd5df718dcf64b9fcd8830c81ea9c9ee34d835a4"
+        }
+      ]
+    }
+  ]
+}

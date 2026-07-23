@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3939671581325965201",
+  "item_type": "story",
+  "published_at_utc": "2026-07-12T14:11:11Z",
+  "published_at_taipei": "2026-07-12T22:11:11+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of wrist watch and text that says '黒 今日穿搭'.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 139535,
+          "sha256": "e86cdf15f9bf976624cbf55828cbbcfb83483e6970a45e24acc9778e822dcbc7"
+        }
+      ]
+    }
+  ]
+}

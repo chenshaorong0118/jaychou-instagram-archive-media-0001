@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3942647034156404329",
+  "item_type": "story",
+  "published_at_utc": "2026-07-16T16:42:52Z",
+  "published_at_taipei": "2026-07-17T00:42:52+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:29Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of grass, park and text.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 469301,
+          "sha256": "a0aafcda8ea8149c70ec3cc9ba0f28a54293627eaf2ea6a92b0cd4bdd9136abf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3940955341883311287",
+  "item_type": "story",
+  "published_at_utc": "2026-07-14T08:41:47Z",
+  "published_at_taipei": "2026-07-14T16:41:47+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of airplane and text.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 325147,
+          "sha256": "b38b15547576bd8cd7a09860fc2c12bd68435300df00e6ec25da7467909b5c38"
+        }
+      ]
+    }
+  ]
+}

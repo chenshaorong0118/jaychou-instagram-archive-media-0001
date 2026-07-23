@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3942647874938136576",
+  "item_type": "story",
+  "published_at_utc": "2026-07-16T16:44:33Z",
+  "published_at_taipei": "2026-07-17T00:44:33+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:29Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of lake and text.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 166277,
+          "sha256": "328b43e4d7e20301a8677d2ebd36afaa3382aeff912e2246befa99e390a1c3a0"
+        }
+      ]
+    }
+  ]
+}

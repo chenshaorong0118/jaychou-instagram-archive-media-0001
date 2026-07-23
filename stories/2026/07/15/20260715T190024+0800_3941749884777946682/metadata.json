@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3941749884777946682",
+  "item_type": "story",
+  "published_at_utc": "2026-07-15T11:00:24Z",
+  "published_at_taipei": "2026-07-15T19:00:24+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T13:31:28Z",
+  "caption": null,
+  "visible_text": "Photo by Jay Chou 周杰倫 on July 15, 2026. May be an image of rearview mirror, glasses, mirror, sunglasses and text.",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 289207,
+          "sha256": "5bf19be994652cdf65ac3700a8c1e4143d7b01031e6c3291b7b84edf0292412d"
+        }
+      ]
+    }
+  ]
+}
