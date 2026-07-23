@@ -70,6 +70,8 @@ def verify_metadata(root: Path, row: dict) -> int:
     metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
     if metadata.get("schema_version") != 1 or metadata.get("pk") != row.get("pk"):
         fail(f"metadata identity mismatch: {relative}")
+    if "source_url" in metadata:
+        fail(f"source_url must not be public: {relative}")
     media = metadata.get("media")
     if not isinstance(media, list) or len(media) != row.get("media_count"):
         fail(f"media count mismatch: {relative}")
