@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pk": "3945357477671836506",
+  "item_type": "story",
+  "published_at_utc": "2026-07-20T10:27:56Z",
+  "published_at_taipei": "2026-07-20T18:27:56+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-20T15:28:14.819Z",
+  "source_url": "https://www.instagram.com/stories/jaychou/3945357477671836506/",
+  "caption": null,
+  "visible_text": "Thanks bro",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "video",
+      "assets": [
+        {
+          "role": "primary_video",
+          "filename": "01-video.mp4",
+          "origin": "derived_remux",
+          "mime_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "video_codec": "av1",
+          "audio_codec": "aac",
+          "duration_ms": 30279,
+          "bytes": 3703538,
+          "sha256": "40856f47c93d3eccc88129eb58d339e029faefaf092a97ac110c5b4ec2ea45bd",
+          "derived_from": [
+            "d72475726561e46428ee2b3c63d3c92f94bf73143e88496c4f8b79e068f7a494",
+            "665e4343b8454b275af09cc7871ac145597021afb444bbc1647ff10b60cb19d7"
+          ]
+        },
+        {
+          "role": "video_poster",
+          "filename": "01-video-poster.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 640,
+          "height": 1136,
+          "bytes": 41365,
+          "sha256": "972fd3b72716d2227cd5a8b6ffbcec4515c20a3993813e35a081244d26ee49dd"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pk": "3945196647118512512",
+  "item_type": "story",
+  "published_at_utc": "2026-07-20T05:08:30Z",
+  "published_at_taipei": "2026-07-20T13:08:30+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-20T15:28:14.159Z",
+  "source_url": "https://www.instagram.com/stories/jaychou/3945196647118512512/",
+  "caption": null,
+  "visible_text": "@jaychou 和 kelin1125\nDanish lifestyle",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image_with_audio",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 159391,
+          "sha256": "9804c659e96a6e40c233432074c223d05f07a5d6066d4166ab9c76b64efb79e5"
+        },
+        {
+          "role": "playable_video",
+          "filename": "01-video-with-audio.mp4",
+          "origin": "derived_remux",
+          "mime_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "video_codec": "vp9",
+          "audio_codec": "aac",
+          "duration_ms": 15000,
+          "bytes": 739530,
+          "sha256": "d7bdd2b280bd9f774fbb39a5efef4a20a921b026ecac47a5e4d801ed79363897",
+          "derived_from": [
+            "6f6042938e508220a4cd0ad511c8ff5bb24c397e755002a84b4942f448a6df71",
+            "c82c36797bb0e929bcdcea7f3bcca7c964abd7dc2efa6df56b9ff4124d67db16"
+          ]
+        }
+      ]
+    }
+  ]
+}

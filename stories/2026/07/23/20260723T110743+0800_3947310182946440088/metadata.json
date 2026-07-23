@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "pk": "3947310182946440088",
+  "item_type": "story",
+  "published_at_utc": "2026-07-23T03:07:43Z",
+  "published_at_taipei": "2026-07-23T11:07:43+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-23T11:06:12.656Z",
+  "source_url": "https://www.instagram.com/stories/jaychou/3947310182946440088/",
+  "caption": null,
+  "visible_text": null,
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 532974,
+          "sha256": "233015641cc396039fe76fb57a0c52eeadbcbcddb74c2d5e9e128e99f0485420"
+        }
+      ]
+    }
+  ]
+}

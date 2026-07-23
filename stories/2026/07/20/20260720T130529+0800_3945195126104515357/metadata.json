@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pk": "3945195126104515357",
+  "item_type": "story",
+  "published_at_utc": "2026-07-20T05:05:29Z",
+  "published_at_taipei": "2026-07-20T13:05:29+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-20T15:28:12.138Z",
+  "source_url": "https://www.instagram.com/stories/jaychou/3945195126104515357/",
+  "caption": null,
+  "visible_text": "J-Style Trip",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image_with_audio",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 161890,
+          "sha256": "438e7f8ec796126df75f016707f7e8822056e76151fd5ffb38a11f7f0af63e70"
+        },
+        {
+          "role": "playable_video",
+          "filename": "01-video-with-audio.mp4",
+          "origin": "derived_remux",
+          "mime_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "video_codec": "vp9",
+          "audio_codec": "aac",
+          "duration_ms": 15000,
+          "bytes": 686589,
+          "sha256": "208d1c0645e6016562281cdb022090e991a2b8cfe31ef8feeb4dc338d14bb285",
+          "derived_from": [
+            "b5c095dfead3e4f0bbb0efca157976481a74ccfccd38a7b4e44b5fc3cf02de24",
+            "83c0930415a36785881c63e54b30aa3ece8002480c00c661f1dd44a5a3915ebf"
+          ]
+        }
+      ]
+    }
+  ]
+}

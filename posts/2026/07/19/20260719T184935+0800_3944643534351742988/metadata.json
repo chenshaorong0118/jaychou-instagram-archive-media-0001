@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "pk": "3944643534351742988",
+  "item_type": "post",
+  "published_at_utc": "2026-07-19T10:49:35Z",
+  "published_at_taipei": "2026-07-19T18:49:35+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-19T16:45:53.579Z",
+  "source_url": "https://www.instagram.com/p/Da-MGUWk7gM/",
+  "caption": "丹麥日記 Day2 \n今天路邊吃著傳統的丹麥熱狗 喝著聽說是當地厲害的咖啡 大家會不會覺得杜哥怎麼沒出現呢 因為接下來的這個尋找丹麥老件的行程 重要的不只是眼光 品味 還要有人幫忙砍價 \n杜哥剛好都沒有具備……😜沒有啦 開玩笑的🤣🤣 其實他超會砍 只是語言有限 今天就先放生他 派出很會講（亂掰）的阿ken上場 果然收穫滿滿✌🏻",
+  "visible_text": null,
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3072,
+          "height": 4096,
+          "bytes": 2807156,
+          "sha256": "7c5871259a0bafba131ab8ffe79514fcb0da79eda3ef82c717e36c7852b764b2"
+        }
+      ]
+    },
+    {
+      "media_index": 2,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "02-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 2795,
+          "height": 3726,
+          "bytes": 1064777,
+          "sha256": "9d4939013bd16d5976fad28042846dd56475eb97f59729d1326e4ef2f0ce9e4d"
+        }
+      ]
+    },
+    {
+      "media_index": 3,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "03-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3072,
+          "height": 4096,
+          "bytes": 1157594,
+          "sha256": "1c5b3e38a0f3b20907af725948b9c054348f1bc9c350591ce385bcc332e55467"
+        }
+      ]
+    },
+    {
+      "media_index": 4,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "04-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3072,
+          "height": 4096,
+          "bytes": 551618,
+          "sha256": "0d904f655cce3a23b57e946fda4aa648483f302f9974d8ced01754aa5b521c68"
+        }
+      ]
+    },
+    {
+      "media_index": 5,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "05-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 2654,
+          "height": 3538,
+          "bytes": 965334,
+          "sha256": "365be1478798dd19b50f086cf82193a2b5059d0850f99f1c427553ee7d73aa10"
+        }
+      ]
+    },
+    {
+      "media_index": 6,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "06-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3024,
+          "height": 4032,
+          "bytes": 1809022,
+          "sha256": "5abfdecd70375a7ae06428d60f4be9f738c9e8a2b28a6e1bdb96cb19188eabaa"
+        }
+      ]
+    },
+    {
+      "media_index": 7,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "07-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3072,
+          "height": 4096,
+          "bytes": 1075749,
+          "sha256": "e124b812bb7272d5441e76a73df4236a29d4353c0e78c192ac00577b1afb1617"
+        }
+      ]
+    },
+    {
+      "media_index": 8,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "08-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3072,
+          "height": 4096,
+          "bytes": 597888,
+          "sha256": "aba1d37ec223ef6504f48ce03c3507b8514aacf977122aa7bad222086ecd099a"
+        }
+      ]
+    },
+    {
+      "media_index": 9,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "09-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 3072,
+          "height": 4096,
+          "bytes": 1174293,
+          "sha256": "b2e36c1274db78475108facf66ba596751ade37398bf18fd0239d8760656c2f0"
+        }
+      ]
+    }
+  ]
+}

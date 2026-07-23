@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pk": "3944654249749620259",
+  "item_type": "story",
+  "published_at_utc": "2026-07-19T11:10:51Z",
+  "published_at_taipei": "2026-07-19T19:10:51+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-19T16:45:53.398Z",
+  "source_url": "https://www.instagram.com/stories/jaychou/3944654249749620259/",
+  "caption": null,
+  "visible_text": "@patrickbrasca",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image_with_audio",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 192719,
+          "sha256": "3e613773f00475947ee26549cca0748c379acdfd822a66a186b33a9f1d68da16"
+        },
+        {
+          "role": "playable_video",
+          "filename": "01-video-with-audio.mp4",
+          "origin": "derived_remux",
+          "mime_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "video_codec": "vp9",
+          "audio_codec": "aac",
+          "duration_ms": 15000,
+          "bytes": 789325,
+          "sha256": "b2e03cafe0676a2f4cf71e405e66c33ecb9a9e968619aea9d058c16df8729579",
+          "derived_from": [
+            "706a3b712acdd2794cf0d836e61b817f9c6abb77eb1cc8d63954506e23d286ea",
+            "5ba122a073a4f8047656c692a1592f60a471a9f3e9aa8eec216cdd7dcd073168"
+          ]
+        }
+      ]
+    }
+  ]
+}

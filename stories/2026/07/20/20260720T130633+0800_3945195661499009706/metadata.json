@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pk": "3945195661499009706",
+  "item_type": "story",
+  "published_at_utc": "2026-07-20T05:06:33Z",
+  "published_at_taipei": "2026-07-20T13:06:33+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-20T15:28:12.798Z",
+  "source_url": "https://www.instagram.com/stories/jaychou/3945195661499009706/",
+  "caption": null,
+  "visible_text": "@jaychou 和 kelin1125\n其實私底下根本也在周遊記 😜",
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image_with_audio",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 1919,
+          "bytes": 419218,
+          "sha256": "3235b4b36f6635b70455e27213945a73d5065029e6d6f42ab731b466f5e6c084"
+        },
+        {
+          "role": "playable_video",
+          "filename": "01-video-with-audio.mp4",
+          "origin": "derived_remux",
+          "mime_type": "video/mp4",
+          "width": 1080,
+          "height": 1920,
+          "video_codec": "vp9",
+          "audio_codec": "aac",
+          "duration_ms": 15000,
+          "bytes": 1682102,
+          "sha256": "3c7406ce0b3cc59aa426491aedf0100e028967fd62b80f2485690af95322a700",
+          "derived_from": [
+            "907017a6e96a651d93a57d43e4f3c17fca64211675261af72b703d60339643fd",
+            "2206633c6d0b992086b5cb93fc3000d2013d654dd52068d132d6f93869f922d6"
+          ]
+        }
+      ]
+    }
+  ]
+}

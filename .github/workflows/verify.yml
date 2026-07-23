@@ -1,0 +1,20 @@
+name: Verify media shard
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Install ffprobe
+        run: sudo apt-get update && sudo apt-get install --yes ffmpeg
+      - name: Verify public media
+        run: python3 tools/verify_media.py .
