@@ -13,4 +13,6 @@ This repository stores verified archive media and item-level metadata. Cross-rep
 
 Run `python3 tools/verify_media.py .` to verify the shard.
 
+代码与文档贡献规则见 [CONTRIBUTING.md](CONTRIBUTING.md)；本仓库不接受媒体 PR 投稿。
+
 使用媒体前请阅读 [MEDIA_RIGHTS.md](MEDIA_RIGHTS.md)。代码许可不覆盖归档媒体。
