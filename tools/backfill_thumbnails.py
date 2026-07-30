@@ -106,7 +106,7 @@ def generate_thumbnail(
             "-vf",
             (
                 "scale=w='min(640,iw)':h='min(640,ih)':"
-                "force_original_aspect_ratio=decrease:force_divisible_by=2"
+                "force_original_aspect_ratio=decrease"
             ),
             "-map_metadata",
             "-1",
