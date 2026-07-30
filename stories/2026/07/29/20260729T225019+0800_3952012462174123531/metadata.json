@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pk": "3952012462174123531",
+  "item_type": "story",
+  "published_at_utc": "2026-07-29T14:50:19Z",
+  "published_at_taipei": "2026-07-29T22:50:19+08:00",
+  "display_timezone": "Asia/Taipei",
+  "captured_at": "2026-07-30T02:36:06Z",
+  "caption": null,
+  "visible_text": null,
+  "shared_post": null,
+  "music": null,
+  "media": [
+    {
+      "media_index": 1,
+      "presentation_kind": "image",
+      "assets": [
+        {
+          "role": "image",
+          "filename": "01-image.jpg",
+          "origin": "instagram",
+          "mime_type": "image/jpeg",
+          "width": 1320,
+          "height": 2346,
+          "bytes": 260037,
+          "sha256": "f6e6754e09bf01d6c3ac1b53f0c59a25ecdc662900b91aad042e0e70649e3128"
+        }
+      ]
+    }
+  ]
+}
