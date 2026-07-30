@@ -24,6 +24,19 @@
           "height": 1791,
           "bytes": 353754,
           "sha256": "d83a85175aab0e8fd2ac8b995a389d5372fb0f35db81ce6884e9e6af6211c767"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 554,
+          "height": 640,
+          "bytes": 50222,
+          "sha256": "583dbd919b66c2f51e3aa81bf30fa3e2f854ffadcaffdafbb39a71a5ecf53015",
+          "derived_from": [
+            "d83a85175aab0e8fd2ac8b995a389d5372fb0f35db81ce6884e9e6af6211c767"
+          ]
         }
       ]
     },
@@ -40,8 +53,24 @@
           "height": 3857,
           "bytes": 986531,
           "sha256": "2bff80395960550e0fea6f7c1129b2c2115c3ebd91b04e2eae1f2f8f581ed701"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "02-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 554,
+          "height": 640,
+          "bytes": 53722,
+          "sha256": "a144086c0754fb08c75cd01ff4d9b7e5071c7f6a1cf19c250a9ebaca91aa63ff",
+          "derived_from": [
+            "2bff80395960550e0fea6f7c1129b2c2115c3ebd91b04e2eae1f2f8f581ed701"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false
 }

@@ -24,6 +24,19 @@
           "height": 2267,
           "bytes": 725351,
           "sha256": "6162bd508c6629ac924e94fc84d077acba4fd56f18df5f80b797090c83116eaf"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 26316,
+          "sha256": "5018488ef13b0524966eea491e91170266b18f06bd630d7ec8d358cf18e5ba9c",
+          "derived_from": [
+            "6162bd508c6629ac924e94fc84d077acba4fd56f18df5f80b797090c83116eaf"
+          ]
         }
       ]
     },
@@ -40,6 +53,19 @@
           "height": 1980,
           "bytes": 635888,
           "sha256": "4cc15a91882d886b5e34538d505d355476b867cc3bfd107348e9163df18f4786"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "02-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 43334,
+          "sha256": "cfa4f67a11f308f9a529caeb0d137d354579f79fd5e04c1450a59063d038890b",
+          "derived_from": [
+            "4cc15a91882d886b5e34538d505d355476b867cc3bfd107348e9163df18f4786"
+          ]
         }
       ]
     },
@@ -56,8 +82,24 @@
           "height": 1837,
           "bytes": 552501,
           "sha256": "3a0dcbb7ed18375aa791d65fa42dad66a3be2c23c73278342569b9bc1fe25ff2"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "03-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 49188,
+          "sha256": "2393f59b90ab8b91067e7dc7a7541d9d4f75f9fcd61665036514831d05a91c75",
+          "derived_from": [
+            "3a0dcbb7ed18375aa791d65fa42dad66a3be2c23c73278342569b9bc1fe25ff2"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false
 }

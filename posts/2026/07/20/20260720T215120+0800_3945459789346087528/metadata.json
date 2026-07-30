@@ -24,6 +24,19 @@
           "height": 4032,
           "bytes": 2037574,
           "sha256": "28a731e40b829d78d03557fc082b2a8a0c7a19da907cab71891d5e6cef089745"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 64954,
+          "sha256": "2392f1148b13583bbe1c6f6fae092449efee40e181136fa869e8b800a8c5f045",
+          "derived_from": [
+            "28a731e40b829d78d03557fc082b2a8a0c7a19da907cab71891d5e6cef089745"
+          ]
         }
       ]
     },
@@ -40,6 +53,19 @@
           "height": 4096,
           "bytes": 1418080,
           "sha256": "218fd2975828eda2148ce784c053aee9f6dc5f136724dfcc19ae3c052e6e5ddf"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "02-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 60332,
+          "sha256": "69f6c2e0e6c615f5ce2740c3d34f354b7ec4468ec8ef1b0a0d00eb3497ee4ba3",
+          "derived_from": [
+            "218fd2975828eda2148ce784c053aee9f6dc5f136724dfcc19ae3c052e6e5ddf"
+          ]
         }
       ]
     },
@@ -56,8 +82,24 @@
           "height": 4096,
           "bytes": 915227,
           "sha256": "56d032c844ec4786a18481cd0ef1779db729a5b53f880f0d6bd11af5a0faadb3"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "03-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 46082,
+          "sha256": "72cb6f8a3736bda7b5a34628552f45d7cc694fb4c67c2f719102e8edfe12fbb3",
+          "derived_from": [
+            "56d032c844ec4786a18481cd0ef1779db729a5b53f880f0d6bd11af5a0faadb3"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false
 }

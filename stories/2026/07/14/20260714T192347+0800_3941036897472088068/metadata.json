@@ -40,8 +40,24 @@
           "derived_from": [
             "15af260b166745f48898cdc25e37a33680b203f8d8eb2dd67b45dbe61b378739"
           ]
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 360,
+          "height": 640,
+          "bytes": 24208,
+          "sha256": "4dadd817044861427f582bbe77cc674fff1558f205ddcc1973dcf32b0ee908a2",
+          "derived_from": [
+            "15af260b166745f48898cdc25e37a33680b203f8d8eb2dd67b45dbe61b378739"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": false,
+  "has_video": true,
+  "has_audio": true
 }

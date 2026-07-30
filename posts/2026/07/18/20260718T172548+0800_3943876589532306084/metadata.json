@@ -24,6 +24,19 @@
           "height": 2268,
           "bytes": 907039,
           "sha256": "e6fa6996e469fb8b67e30aaacf6135ff069c5638b3538a7bed5e3f9fedab460e"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 60712,
+          "sha256": "8a37f6aa420178ff79fa16cd02178101fe868abcf311c55906911da26b96305c",
+          "derived_from": [
+            "e6fa6996e469fb8b67e30aaacf6135ff069c5638b3538a7bed5e3f9fedab460e"
+          ]
         }
       ]
     },
@@ -40,6 +53,19 @@
           "height": 2728,
           "bytes": 1186598,
           "sha256": "3ab63f3e8803d523dc656e9460ea78897c29117bd67067f69e6b74a3495f2fe2"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "02-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 59780,
+          "sha256": "d01546924b95d82895e5cc4fc6f47fee73ac9a3a5b2e893c305d35f757366286",
+          "derived_from": [
+            "3ab63f3e8803d523dc656e9460ea78897c29117bd67067f69e6b74a3495f2fe2"
+          ]
         }
       ]
     },
@@ -56,6 +82,19 @@
           "height": 3072,
           "bytes": 414122,
           "sha256": "5c0cd2ffa6b720276e38487fc16bb9dd2d4a74502235dbc0841471190f6cecf4"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "03-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 13598,
+          "sha256": "9c00ad18a74a9f183412eaa739218adbf3d83ed970d95a53e62cdcdbcdfe308e",
+          "derived_from": [
+            "5c0cd2ffa6b720276e38487fc16bb9dd2d4a74502235dbc0841471190f6cecf4"
+          ]
         }
       ]
     },
@@ -72,6 +111,19 @@
           "height": 2268,
           "bytes": 564917,
           "sha256": "47b668274d831f7cc57b5ab3a7282194d1ed97f1429a1532124d0faccbb29f5c"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "04-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 43172,
+          "sha256": "5667e5a5d62f836871a675f76bcca3d182153d52e3143d28954bb89414e7949a",
+          "derived_from": [
+            "47b668274d831f7cc57b5ab3a7282194d1ed97f1429a1532124d0faccbb29f5c"
+          ]
         }
       ]
     },
@@ -88,6 +140,19 @@
           "height": 3072,
           "bytes": 1301606,
           "sha256": "4b20a46efad3325c4e4eacfa91091bdc10301eccc1967933f897e14e1e0e472e"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "05-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 58338,
+          "sha256": "788c4bdb72f0bc57470d0158d7855b9213bc586f3cf6244ed68c6de3949b0df1",
+          "derived_from": [
+            "4b20a46efad3325c4e4eacfa91091bdc10301eccc1967933f897e14e1e0e472e"
+          ]
         }
       ]
     },
@@ -104,8 +169,24 @@
           "height": 2268,
           "bytes": 773628,
           "sha256": "e134f28ccbd05cae1a3d6c3e30237ac8eb4775282adda2c19c4c3408cdf5af7b"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "06-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 43910,
+          "sha256": "a36043df21d2f8467bcd7eeb96b5f1d8230f65372996603582f2eafbb262a001",
+          "derived_from": [
+            "e134f28ccbd05cae1a3d6c3e30237ac8eb4775282adda2c19c4c3408cdf5af7b"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false
 }

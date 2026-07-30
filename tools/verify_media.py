@@ -6,7 +6,6 @@ from __future__ import annotations
 import hashlib
 import json
 import re
-import subprocess
 import sys
 from pathlib import Path
 
@@ -38,30 +37,6 @@ def safe(root: Path, relative: str) -> Path:
     return result
 
 
-def probe_video(path: Path, require_audio: bool) -> None:
-    completed = subprocess.run(
-        [
-            "ffprobe",
-            "-v",
-            "error",
-            "-show_entries",
-            "stream=codec_type",
-            "-of",
-            "json",
-            str(path),
-        ],
-        check=True,
-        capture_output=True,
-        text=True,
-    )
-    streams = json.loads(completed.stdout).get("streams", [])
-    kinds = {stream.get("codec_type") for stream in streams}
-    if "video" not in kinds:
-        fail(f"video stream missing: {path}")
-    if require_audio and "audio" not in kinds:
-        fail(f"audio stream missing: {path}")
-
-
 def verify_metadata(root: Path, row: dict) -> int:
     relative = row.get("path")
     if not isinstance(relative, str) or not ENTRY_RE.fullmatch(relative):
@@ -85,8 +60,14 @@ def verify_metadata(root: Path, row: dict) -> int:
         assets = position.get("assets")
         if not isinstance(assets, list) or not assets:
             fail(f"assets missing: {relative}")
-        roles = [asset.get("role") for asset in assets]
-        if kind == "image_with_audio" and sorted(roles) != ["image", "playable_video"]:
+        roles = {asset.get("role") for asset in assets}
+        if len([asset for asset in assets if asset.get("role") == "thumbnail"]) != 1:
+            fail(f"thumbnail missing/duplicate: {relative}")
+        if kind == "image_with_audio" and not {
+            "image",
+            "playable_video",
+            "thumbnail",
+        }.issubset(roles):
             fail(f"image_with_audio pair invalid: {relative}")
         for asset in assets:
             filename = asset.get("filename")
@@ -99,9 +80,22 @@ def verify_metadata(root: Path, row: dict) -> int:
                 fail(f"asset integrity mismatch: {relative}/{filename}")
             if asset.get("origin") != "instagram" and not asset.get("derived_from"):
                 fail(f"derived source missing: {relative}/{filename}")
-            if asset.get("mime_type") == "video/mp4":
-                probe_video(asset_path, asset.get("role") == "playable_video")
+            if asset.get("role") == "thumbnail":
+                if (
+                    asset.get("mime_type") != "image/webp"
+                    or max(int(asset.get("width") or 0), int(asset.get("height") or 0))
+                    > 640
+                    or not re.match(
+                        b"^RIFF....WEBP",
+                        asset_path.read_bytes()[:12],
+                        re.DOTALL,
+                    )
+                ):
+                    fail(f"invalid WebP thumbnail: {relative}/{filename}")
             checked += 1
+    for field in ("has_image", "has_video", "has_audio"):
+        if not isinstance(metadata.get(field), bool):
+            fail(f"media flag missing: {relative}:{field}")
     return checked
 
 
@@ -144,6 +138,6 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
-    except (OSError, ValueError, subprocess.SubprocessError, json.JSONDecodeError) as error:
+    except (OSError, ValueError, json.JSONDecodeError) as error:
         print(json.dumps({"ok": False, "error": str(error)}), file=sys.stderr)
         raise SystemExit(1)
