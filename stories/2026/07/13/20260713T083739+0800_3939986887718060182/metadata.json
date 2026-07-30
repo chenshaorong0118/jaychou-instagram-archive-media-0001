@@ -24,8 +24,24 @@
           "height": 1919,
           "bytes": 196180,
           "sha256": "92b50fb51c8eae9da859f4a9c174a5eddada7451026026fd62c83a2fab957967"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 360,
+          "height": 640,
+          "bytes": 32350,
+          "sha256": "015346b4cac3933c2fef71ffb1a8332466f591bdde96c13ba423a0cb2a04e862",
+          "derived_from": [
+            "92b50fb51c8eae9da859f4a9c174a5eddada7451026026fd62c83a2fab957967"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false
 }

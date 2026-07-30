@@ -24,6 +24,19 @@
           "height": 1760,
           "bytes": 306114,
           "sha256": "4c68e95e11451fa672bf89f888d6b3787ed9350b344fc3f0c4cf2afb335805fd"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 37438,
+          "sha256": "7f55babb172cf8576d928ac41d0006b374f038539d1915a063bedb7fce7b86f5",
+          "derived_from": [
+            "4c68e95e11451fa672bf89f888d6b3787ed9350b344fc3f0c4cf2afb335805fd"
+          ]
         }
       ]
     },
@@ -40,6 +53,19 @@
           "height": 1760,
           "bytes": 196141,
           "sha256": "5abdc0fda44a89ca64c4c9fcf3b6cfc36d19e9cec6faa79c94c5ec352a832ff8"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "02-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 27050,
+          "sha256": "454a9fa4b2b824c17e2ed11e611ec4d90e1a0b014de988b4873b67a0e3674eac",
+          "derived_from": [
+            "5abdc0fda44a89ca64c4c9fcf3b6cfc36d19e9cec6faa79c94c5ec352a832ff8"
+          ]
         }
       ]
     },
@@ -56,6 +82,19 @@
           "height": 1760,
           "bytes": 332549,
           "sha256": "23bf8b9c62eb0f782c90575cb0be2c76c43c09fee6935b86bfe892b637f99c53"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "03-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 49012,
+          "sha256": "1ed7025dd39f7da8d3f9175f74bae22a23987389a98b2031f1504f30af54f573",
+          "derived_from": [
+            "23bf8b9c62eb0f782c90575cb0be2c76c43c09fee6935b86bfe892b637f99c53"
+          ]
         }
       ]
     },
@@ -72,8 +111,24 @@
           "height": 1600,
           "bytes": 199642,
           "sha256": "7155d61e3861ed5c790d635f90f91d85d0841cf42fec244b9a0517bbc983ca9c"
+        },
+        {
+          "role": "thumbnail",
+          "filename": "04-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 28620,
+          "sha256": "1be1589490588a557d1ceb5ef7da73ccaa5812c2fbfc8c0074a4bbd841296994",
+          "derived_from": [
+            "7155d61e3861ed5c790d635f90f91d85d0841cf42fec244b9a0517bbc983ca9c"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false
 }

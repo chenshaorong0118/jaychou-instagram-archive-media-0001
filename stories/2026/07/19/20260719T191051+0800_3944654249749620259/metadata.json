@@ -41,8 +41,24 @@
             "706a3b712acdd2794cf0d836e61b817f9c6abb77eb1cc8d63954506e23d286ea",
             "5ba122a073a4f8047656c692a1592f60a471a9f3e9aa8eec216cdd7dcd073168"
           ]
+        },
+        {
+          "role": "thumbnail",
+          "filename": "01-thumbnail.webp",
+          "origin": "derived_thumbnail",
+          "mime_type": "image/webp",
+          "width": 360,
+          "height": 640,
+          "bytes": 28192,
+          "sha256": "08833d31bb73abe829873f8f574c3d9969e2976a1b1c075b7b84b67fd99987ec",
+          "derived_from": [
+            "3e613773f00475947ee26549cca0748c379acdfd822a66a186b33a9f1d68da16"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "has_image": true,
+  "has_video": true,
+  "has_audio": true
 }
