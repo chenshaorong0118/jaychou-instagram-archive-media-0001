@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3949120370938962902",
   "item_type": "post",
   "published_at_utc": "2026-07-25T15:04:15Z",
   "published_at_taipei": "2026-07-25T23:04:15+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-29T01:44:05Z",
   "caption": "These are my Danish chair treasures from this trip😜If there’s a Danish chair you think is the ultimate rare piece, tell me in the comments!\n\nI still remember one night I ended up talking with a Danish stranger on Instagram for hours, just because we were both obsessed with chairs. 😂\n\nAlways happy to learn more, so feel free to leave a comment and share your knowledge with me! 🪑",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 1760,
@@ -26,28 +26,23 @@
           "sha256": "46aa0a57c15ee40adaa107ca2083cf364aabc376bf730034f025e9e96be88797"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 34672,
-          "sha256": "f6dd2d7fc1911001fbea2681a961f0a2b5052c11f3ac308361977a41f67e937d",
-          "derived_from": [
-            "46aa0a57c15ee40adaa107ca2083cf364aabc376bf730034f025e9e96be88797"
-          ]
+          "sha256": "f6dd2d7fc1911001fbea2681a961f0a2b5052c11f3ac308361977a41f67e937d"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 1760,
@@ -55,22 +50,15 @@
           "sha256": "398457aaffc8259be029b21a20aba6984039228abf8be6be65db86b3f22e4928"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 10722,
-          "sha256": "e832cd75bcfef862265500568304b10b60a6c0cc40a73e99dea085abdf72f665",
-          "derived_from": [
-            "398457aaffc8259be029b21a20aba6984039228abf8be6be65db86b3f22e4928"
-          ]
+          "sha256": "e832cd75bcfef862265500568304b10b60a6c0cc40a73e99dea085abdf72f665"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

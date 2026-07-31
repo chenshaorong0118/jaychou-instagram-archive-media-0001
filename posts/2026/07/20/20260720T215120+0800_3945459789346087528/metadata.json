@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3945459789346087528",
   "item_type": "post",
   "published_at_utc": "2026-07-20T13:51:20Z",
   "published_at_taipei": "2026-07-20T21:51:20+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-20T14:18:48Z",
   "caption": "帶著家人自在的走在街上 感受這座城市最真實的日常 或許 就是這些平凡的時刻 讓丹麥成了我會想再回來的地方 \n（謝謝女兒殿下裡阿ken叔叔替我們的捕捉📸）\nWalking through the streets of Denmark with my family, completely at ease, with nowhere we needed to be.\nMaybe it’s these quiet, simple moments that make Denmark a place I’ll always want to come back to. #dänemark #københavn",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3024,
           "height": 4032,
@@ -26,28 +26,23 @@
           "sha256": "28a731e40b829d78d03557fc082b2a8a0c7a19da907cab71891d5e6cef089745"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 64954,
-          "sha256": "2392f1148b13583bbe1c6f6fae092449efee40e181136fa869e8b800a8c5f045",
-          "derived_from": [
-            "28a731e40b829d78d03557fc082b2a8a0c7a19da907cab71891d5e6cef089745"
-          ]
+          "sha256": "2392f1148b13583bbe1c6f6fae092449efee40e181136fa869e8b800a8c5f045"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3072,
           "height": 4096,
@@ -55,28 +50,23 @@
           "sha256": "218fd2975828eda2148ce784c053aee9f6dc5f136724dfcc19ae3c052e6e5ddf"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 60332,
-          "sha256": "69f6c2e0e6c615f5ce2740c3d34f354b7ec4468ec8ef1b0a0d00eb3497ee4ba3",
-          "derived_from": [
-            "218fd2975828eda2148ce784c053aee9f6dc5f136724dfcc19ae3c052e6e5ddf"
-          ]
+          "sha256": "69f6c2e0e6c615f5ce2740c3d34f354b7ec4468ec8ef1b0a0d00eb3497ee4ba3"
         }
       ]
     },
     {
-      "media_index": 3,
-      "presentation_kind": "image",
+      "index": 3,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "03-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3072,
           "height": 4096,
@@ -84,22 +74,15 @@
           "sha256": "56d032c844ec4786a18481cd0ef1779db729a5b53f880f0d6bd11af5a0faadb3"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "03-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 46082,
-          "sha256": "72cb6f8a3736bda7b5a34628552f45d7cc694fb4c67c2f719102e8edfe12fbb3",
-          "derived_from": [
-            "56d032c844ec4786a18481cd0ef1779db729a5b53f880f0d6bd11af5a0faadb3"
-          ]
+          "sha256": "72cb6f8a3736bda7b5a34628552f45d7cc694fb4c67c2f719102e8edfe12fbb3"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

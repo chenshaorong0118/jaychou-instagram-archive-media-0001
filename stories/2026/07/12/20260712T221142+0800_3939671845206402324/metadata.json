@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3939671845206402324",
   "item_type": "story",
   "published_at_utc": "2026-07-12T14:11:42Z",
   "published_at_taipei": "2026-07-12T22:11:42+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of wingtip shoes, cufflinks, wrist watch and text.",
+  "text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of wingtip shoes, cufflinks, wrist watch and text.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1919,
@@ -26,22 +26,15 @@
           "sha256": "9ee98f08e5452d83840c95de43421cb68383d24596f93c5191412f3060036081"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 22494,
-          "sha256": "41e2cea3e65db80f4cbdd2b54f1294ab671fb5d14103a5da1042e83c82331ea1",
-          "derived_from": [
-            "9ee98f08e5452d83840c95de43421cb68383d24596f93c5191412f3060036081"
-          ]
+          "sha256": "41e2cea3e65db80f4cbdd2b54f1294ab671fb5d14103a5da1042e83c82331ea1"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

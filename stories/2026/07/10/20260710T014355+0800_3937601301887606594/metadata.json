@@ -1,47 +1,40 @@
 {
+  "schema_version": 2,
+  "pk": "3937601301887606594",
+  "item_type": "story",
+  "published_at_utc": "2026-07-09T17:43:55Z",
+  "published_at_taipei": "2026-07-10T01:43:55+08:00",
   "caption": null,
-  "captured_at": "2026-07-10T07:43:55Z",
-  "display_timezone": "Asia/Taipei",
-  "has_audio": false,
+  "text": null,
+  "shared_post": null,
+  "music": null,
   "has_image": true,
   "has_video": false,
-  "item_type": "story",
+  "has_audio": false,
   "media": [
     {
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "bytes": 627649,
+          "type": "image",
           "filename": "01-image.jpg",
-          "height": 2346,
           "mime_type": "image/jpeg",
-          "origin": "instagram",
-          "role": "image",
-          "sha256": "765c260d1b9379d109d030b371418f195d03b297b8021d5edf34076ef119984e",
-          "width": 1320
+          "width": 1320,
+          "height": 2346,
+          "bytes": 627649,
+          "sha256": "765c260d1b9379d109d030b371418f195d03b297b8021d5edf34076ef119984e"
         },
         {
-          "bytes": 39654,
-          "derived_from": [
-            "765c260d1b9379d109d030b371418f195d03b297b8021d5edf34076ef119984e"
-          ],
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "height": 640,
           "mime_type": "image/webp",
-          "origin": "derived_thumbnail",
-          "role": "thumbnail",
-          "sha256": "abd6dcdf21375f6be305de1bd01afca399d87a4fe3e52276635794e5c2baef84",
-          "width": 360
+          "width": 360,
+          "height": 640,
+          "bytes": 39654,
+          "sha256": "abd6dcdf21375f6be305de1bd01afca399d87a4fe3e52276635794e5c2baef84"
         }
-      ],
-      "media_index": 1,
-      "presentation_kind": "image"
+      ]
     }
-  ],
-  "music": null,
-  "pk": "3937601301887606594",
-  "published_at_taipei": "2026-07-10T01:43:55+08:00",
-  "published_at_utc": "2026-07-09T17:43:55Z",
-  "schema_version": 1,
-  "shared_post": null,
-  "visible_text": null
+  ]
 }

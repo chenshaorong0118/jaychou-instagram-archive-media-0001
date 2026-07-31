@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3942648015891818092",
   "item_type": "story",
   "published_at_utc": "2026-07-16T16:44:50Z",
   "published_at_taipei": "2026-07-17T00:44:50+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:29Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of text.",
+  "text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of text.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 2346,
@@ -26,22 +26,15 @@
           "sha256": "664570c87d28b542362145483c925db1c0897fab99af4db253ac356d6567d0f9"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 39396,
-          "sha256": "f712b29a53da8b3e5c47ed8d4502feb99c7b64edaa2aa4f939d750873e2f2cc0",
-          "derived_from": [
-            "664570c87d28b542362145483c925db1c0897fab99af4db253ac356d6567d0f9"
-          ]
+          "sha256": "f712b29a53da8b3e5c47ed8d4502feb99c7b64edaa2aa4f939d750873e2f2cc0"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

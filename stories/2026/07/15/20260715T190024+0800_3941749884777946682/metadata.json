@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3941749884777946682",
   "item_type": "story",
   "published_at_utc": "2026-07-15T11:00:24Z",
   "published_at_taipei": "2026-07-15T19:00:24+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 15, 2026. May be an image of rearview mirror, glasses, mirror, sunglasses and text.",
+  "text": "Photo by Jay Chou 周杰倫 on July 15, 2026. May be an image of rearview mirror, glasses, mirror, sunglasses and text.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 2346,
@@ -26,22 +26,15 @@
           "sha256": "5bf19be994652cdf65ac3700a8c1e4143d7b01031e6c3291b7b84edf0292412d"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 19236,
-          "sha256": "a87976e3445d252cf88b696a634e7370a68f7b784f4fd9bb13cc0e7a062e53a2",
-          "derived_from": [
-            "5bf19be994652cdf65ac3700a8c1e4143d7b01031e6c3291b7b84edf0292412d"
-          ]
+          "sha256": "a87976e3445d252cf88b696a634e7370a68f7b784f4fd9bb13cc0e7a062e53a2"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

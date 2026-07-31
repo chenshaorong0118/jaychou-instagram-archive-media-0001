@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3942649664513324142",
   "item_type": "story",
   "published_at_utc": "2026-07-16T16:48:06Z",
   "published_at_taipei": "2026-07-17T00:48:06+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:29Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of the Queensboro Bridge, lamppost, sky, suspension bridge and text.",
+  "text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of the Queensboro Bridge, lamppost, sky, suspension bridge and text.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 2346,
@@ -26,22 +26,15 @@
           "sha256": "f9b08cc263b5323e920506a3d47b0ae64058c450c9124447219fd272731e91a0"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 19262,
-          "sha256": "49724b5710a3926e71834731683bc53325af560185e6a79b809489cd3066841e",
-          "derived_from": [
-            "f9b08cc263b5323e920506a3d47b0ae64058c450c9124447219fd272731e91a0"
-          ]
+          "sha256": "49724b5710a3926e71834731683bc53325af560185e6a79b809489cd3066841e"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

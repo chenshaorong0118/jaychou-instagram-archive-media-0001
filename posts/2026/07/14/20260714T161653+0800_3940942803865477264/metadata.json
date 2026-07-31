@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3940942803865477264",
   "item_type": "post",
   "published_at_utc": "2026-07-14T08:16:53Z",
   "published_at_taipei": "2026-07-14T16:16:53+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-19T16:45:53Z",
   "caption": "此刻的速度 傍晚的風替我們指路\n願望向夜空 閃爍著幸福 明亮清楚\n極光灑滿天 在我們面前將愛描述\n相互依賴著 共度這一場浪漫旅途\nComing soon on China Airlines flights, you’ll be able to watch my show J-Style Trip. So when you get on board, don’t be too quick to fall asleep 😉\n@chinaairlines.tw",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3023,
           "height": 2267,
@@ -26,28 +26,23 @@
           "sha256": "6162bd508c6629ac924e94fc84d077acba4fd56f18df5f80b797090c83116eaf"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 26316,
-          "sha256": "5018488ef13b0524966eea491e91170266b18f06bd630d7ec8d358cf18e5ba9c",
-          "derived_from": [
-            "6162bd508c6629ac924e94fc84d077acba4fd56f18df5f80b797090c83116eaf"
-          ]
+          "sha256": "5018488ef13b0524966eea491e91170266b18f06bd630d7ec8d358cf18e5ba9c"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 2640,
           "height": 1980,
@@ -55,28 +50,23 @@
           "sha256": "4cc15a91882d886b5e34538d505d355476b867cc3bfd107348e9163df18f4786"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 43334,
-          "sha256": "cfa4f67a11f308f9a529caeb0d137d354579f79fd5e04c1450a59063d038890b",
-          "derived_from": [
-            "4cc15a91882d886b5e34538d505d355476b867cc3bfd107348e9163df18f4786"
-          ]
+          "sha256": "cfa4f67a11f308f9a529caeb0d137d354579f79fd5e04c1450a59063d038890b"
         }
       ]
     },
     {
-      "media_index": 3,
-      "presentation_kind": "image",
+      "index": 3,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "03-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 2450,
           "height": 1837,
@@ -84,22 +74,15 @@
           "sha256": "3a0dcbb7ed18375aa791d65fa42dad66a3be2c23c73278342569b9bc1fe25ff2"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "03-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 49188,
-          "sha256": "2393f59b90ab8b91067e7dc7a7541d9d4f75f9fcd61665036514831d05a91c75",
-          "derived_from": [
-            "3a0dcbb7ed18375aa791d65fa42dad66a3be2c23c73278342569b9bc1fe25ff2"
-          ]
+          "sha256": "2393f59b90ab8b91067e7dc7a7541d9d4f75f9fcd61665036514831d05a91c75"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

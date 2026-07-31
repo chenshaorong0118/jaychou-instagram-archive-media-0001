@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3939621315285282635",
   "item_type": "story",
   "published_at_utc": "2026-07-12T12:31:19Z",
   "published_at_taipei": "2026-07-12T20:31:19+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be a selfie of one or more people, hair, car, seatbelt, limousine and text that says 'ਦਹ MAmpezn o 크남스Nㅋ그 @hannah_quinlivan quinlivan Channah_'.",
+  "text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be a selfie of one or more people, hair, car, seatbelt, limousine and text that says 'ਦਹ MAmpezn o 크남스Nㅋ그 @hannah_quinlivan quinlivan Channah_'.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1919,
@@ -26,22 +26,15 @@
           "sha256": "517d2b753f3b51a526f6a03b72d1a9ed98be6c7b910fe35601b9295e1d1d101d"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 20290,
-          "sha256": "c3687f70e8dfa94b1a13b793b46e1771300b630abb8084196734caf8c5c388b1",
-          "derived_from": [
-            "517d2b753f3b51a526f6a03b72d1a9ed98be6c7b910fe35601b9295e1d1d101d"
-          ]
+          "sha256": "c3687f70e8dfa94b1a13b793b46e1771300b630abb8084196734caf8c5c388b1"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

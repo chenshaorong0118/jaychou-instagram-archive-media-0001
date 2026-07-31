@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "18439019899193087",
   "item_type": "story",
   "published_at_utc": "2026-07-09T17:50:45Z",
   "published_at_taipei": "2026-07-10T01:50:45+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "jaychou 14小时 video story",
+  "text": "jaychou 14小时 video story",
   "shared_post": null,
   "music": null,
+  "has_image": false,
+  "has_video": true,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "video",
+      "index": 1,
+      "kind": "video",
       "assets": [
         {
-          "role": "primary_video",
+          "type": "video",
           "filename": "01-video.mp4",
-          "origin": "instagram",
           "mime_type": "video/mp4",
           "width": 1080,
           "height": 1920,
@@ -28,35 +28,24 @@
           "sha256": "50bfef3b1703f9de26b36f64acb6aae555042b35e9d8f646fb82c7fc9dc12789"
         },
         {
-          "role": "video_poster",
+          "type": "poster",
           "filename": "01-video-poster.jpg",
-          "origin": "derived_render",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1920,
           "bytes": 208640,
-          "sha256": "da554ea75528ed6a580684d8e80e8f2a8f4f149b24089dd7067818a7caeeed32",
-          "derived_from": [
-            "50bfef3b1703f9de26b36f64acb6aae555042b35e9d8f646fb82c7fc9dc12789"
-          ]
+          "sha256": "da554ea75528ed6a580684d8e80e8f2a8f4f149b24089dd7067818a7caeeed32"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 23422,
-          "sha256": "6d0d6a99ab3c3c900cb2af76cf94e3a163f95484da947b4a16d9c16d973c1e1e",
-          "derived_from": [
-            "50bfef3b1703f9de26b36f64acb6aae555042b35e9d8f646fb82c7fc9dc12789"
-          ]
+          "sha256": "6d0d6a99ab3c3c900cb2af76cf94e3a163f95484da947b4a16d9c16d973c1e1e"
         }
       ]
     }
-  ],
-  "has_image": false,
-  "has_video": true,
-  "has_audio": false
+  ]
 }

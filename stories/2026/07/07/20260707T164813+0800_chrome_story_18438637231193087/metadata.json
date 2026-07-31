@@ -1,47 +1,40 @@
 {
+  "schema_version": 2,
+  "pk": "chrome_story_18438637231193087",
+  "item_type": "story",
+  "published_at_utc": "2026-07-07T08:48:13Z",
+  "published_at_taipei": "2026-07-07T16:48:13+08:00",
   "caption": null,
-  "captured_at": "2026-07-07T08:48:13Z",
-  "display_timezone": "Asia/Taipei",
-  "has_audio": true,
+  "text": null,
+  "shared_post": null,
+  "music": null,
   "has_image": false,
   "has_video": true,
-  "item_type": "story",
+  "has_audio": true,
   "media": [
     {
+      "index": 1,
+      "kind": "video",
       "assets": [
         {
-          "bytes": 3593057,
+          "type": "video",
           "filename": "01-video.mp4",
-          "height": 1920,
           "mime_type": "video/mp4",
-          "origin": "instagram",
-          "role": "primary_video",
-          "sha256": "c220f38f894370fefe7a7ebced0d519cb51c38033100e80266ef3ab185e5cb9a",
-          "width": 1080
+          "width": 1080,
+          "height": 1920,
+          "bytes": 3593057,
+          "sha256": "c220f38f894370fefe7a7ebced0d519cb51c38033100e80266ef3ab185e5cb9a"
         },
         {
-          "bytes": 34510,
-          "derived_from": [
-            "c220f38f894370fefe7a7ebced0d519cb51c38033100e80266ef3ab185e5cb9a"
-          ],
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "height": 640,
           "mime_type": "image/webp",
-          "origin": "derived_thumbnail",
-          "role": "thumbnail",
-          "sha256": "4c6e69f2cbf47ca7608db522b230805efac71c44dd66d058311f1ca641063d79",
-          "width": 360
+          "width": 360,
+          "height": 640,
+          "bytes": 34510,
+          "sha256": "4c6e69f2cbf47ca7608db522b230805efac71c44dd66d058311f1ca641063d79"
         }
-      ],
-      "media_index": 1,
-      "presentation_kind": "video"
+      ]
     }
-  ],
-  "music": null,
-  "pk": "chrome_story_18438637231193087",
-  "published_at_taipei": "2026-07-07T16:48:13+08:00",
-  "published_at_utc": "2026-07-07T08:48:13Z",
-  "schema_version": 1,
-  "shared_post": null,
-  "visible_text": null
+  ]
 }
