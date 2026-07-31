@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3944654249749620259",
   "item_type": "story",
   "published_at_utc": "2026-07-19T11:10:51Z",
   "published_at_taipei": "2026-07-19T19:10:51+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-19T16:45:53Z",
   "caption": null,
-  "visible_text": "@patrickbrasca",
+  "text": "@patrickbrasca",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": true,
+  "has_audio": true,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image_with_audio",
+      "index": 1,
+      "kind": "image_with_audio",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1919,
@@ -26,9 +26,8 @@
           "sha256": "3e613773f00475947ee26549cca0748c379acdfd822a66a186b33a9f1d68da16"
         },
         {
-          "role": "playable_video",
+          "type": "video",
           "filename": "01-video-with-audio.mp4",
-          "origin": "derived_remux",
           "mime_type": "video/mp4",
           "width": 1080,
           "height": 1920,
@@ -36,29 +35,18 @@
           "audio_codec": "aac",
           "duration_ms": 15000,
           "bytes": 789325,
-          "sha256": "b2e03cafe0676a2f4cf71e405e66c33ecb9a9e968619aea9d058c16df8729579",
-          "derived_from": [
-            "706a3b712acdd2794cf0d836e61b817f9c6abb77eb1cc8d63954506e23d286ea",
-            "5ba122a073a4f8047656c692a1592f60a471a9f3e9aa8eec216cdd7dcd073168"
-          ]
+          "sha256": "b2e03cafe0676a2f4cf71e405e66c33ecb9a9e968619aea9d058c16df8729579"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 28192,
-          "sha256": "08833d31bb73abe829873f8f574c3d9969e2976a1b1c075b7b84b67fd99987ec",
-          "derived_from": [
-            "3e613773f00475947ee26549cca0748c379acdfd822a66a186b33a9f1d68da16"
-          ]
+          "sha256": "08833d31bb73abe829873f8f574c3d9969e2976a1b1c075b7b84b67fd99987ec"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": true,
-  "has_audio": true
+  ]
 }

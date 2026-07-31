@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3939577808642323373",
   "item_type": "story",
   "published_at_utc": "2026-07-12T11:04:52Z",
   "published_at_taipei": "2026-07-12T19:04:52+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of card and text that says 'dc1h4w ำล่ c1h4w 5 두 rAp Suaury Phantaci edition Phantaciedition70x 70x'.",
+  "text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of card and text that says 'dc1h4w ำล่ c1h4w 5 두 rAp Suaury Phantaci edition Phantaciedition70x 70x'.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1919,
@@ -26,22 +26,15 @@
           "sha256": "60c2bdb0fb7ec9f8360990f35a7200eb1937f1c75ef852ac5b66c28a169436f3"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 46118,
-          "sha256": "4363d59658c3b54d76ee34838ef02380d8e522fdfe4221b381d8c5cfb2b92cd6",
-          "derived_from": [
-            "60c2bdb0fb7ec9f8360990f35a7200eb1937f1c75ef852ac5b66c28a169436f3"
-          ]
+          "sha256": "4363d59658c3b54d76ee34838ef02380d8e522fdfe4221b381d8c5cfb2b92cd6"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3951263316450696647",
   "item_type": "post",
   "published_at_utc": "2026-07-28T14:01:54Z",
   "published_at_taipei": "2026-07-28T22:01:54+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-29T01:43:58Z",
   "caption": "又到了深夜藝術交流的時刻 每次到了深夜不是吃宵夜 就是想聊點文青的話題讓自己變得文青 請聽我慢慢道來…\n\n這些 是前幾年收藏的椅子 第一張 我忘記我有沒坐過 但我只記得我助理（在他還沒瘦下來的時候）竟然想都不想就給我大剌剌用力的坐下去…\n平常它們就安安靜靜地待在各自的角落 不喧嘩 也不急著證明自己 只是靜靜地陪著時間流動 \n我看到留言裡 很多人推薦我去丹麥設計博物館 \n其實 不瞞你說 在它閉館的時候 我們就是去這裡拍攝《周遊記》的\n那一刻 我竟然發現 曾經收藏過的幾張椅子 也正靜靜地 一格一格 各自在自己的位置 隔著時間 隔著距離 彷彿又再次默契地重逢 \n最後這整篇文章下來我想說的是…\n我眼光是不是不錯😜 \nIt’s time for another late-night art conversation.\nEvery night, it’s either having some late-night food, or I find myself wanting to talk about something a little more artistic, just to make myself feel a bit more cultured. 😂\nSo let me slowly tell you the story…\n\nThese are chairs I collected a few years ago.\nFor the first one, I honestly can’t remember if I’ve ever even sat on it. But I still remember my assistant, before she lost weight 😂, just walking over and sitting on it with all her strength without even thinking twice…\n\nUsually, they quietly stay in their own corners.\nThey don’t make noise, and they don’t rush to prove themselves.\nThey just quietly stay there, watching time go by and letting the years pass.\n\nI saw many people in the comments recommending that I visit Designmuseum Danmark.\nActually, to be honest, that’s where we filmed 《J-Style Trip》 when the museum was closed.\nAnd at that moment, I suddenly realized…\nA few chairs that I had collected years ago were also quietly sitting there, one by one, each in their own place.\n\nAcross time.\nAcross distance.\nAlmost as if they had a silent understanding and had reunited once again.\n\nAfter writing this whole story, what I really want to say is…\n\nI guess I actually have pretty good taste. 😜",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 1760,
@@ -26,28 +26,23 @@
           "sha256": "4c68e95e11451fa672bf89f888d6b3787ed9350b344fc3f0c4cf2afb335805fd"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 37438,
-          "sha256": "7f55babb172cf8576d928ac41d0006b374f038539d1915a063bedb7fce7b86f5",
-          "derived_from": [
-            "4c68e95e11451fa672bf89f888d6b3787ed9350b344fc3f0c4cf2afb335805fd"
-          ]
+          "sha256": "7f55babb172cf8576d928ac41d0006b374f038539d1915a063bedb7fce7b86f5"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 1760,
@@ -55,28 +50,23 @@
           "sha256": "5abdc0fda44a89ca64c4c9fcf3b6cfc36d19e9cec6faa79c94c5ec352a832ff8"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 27050,
-          "sha256": "454a9fa4b2b824c17e2ed11e611ec4d90e1a0b014de988b4873b67a0e3674eac",
-          "derived_from": [
-            "5abdc0fda44a89ca64c4c9fcf3b6cfc36d19e9cec6faa79c94c5ec352a832ff8"
-          ]
+          "sha256": "454a9fa4b2b824c17e2ed11e611ec4d90e1a0b014de988b4873b67a0e3674eac"
         }
       ]
     },
     {
-      "media_index": 3,
-      "presentation_kind": "image",
+      "index": 3,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "03-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 1760,
@@ -84,28 +74,23 @@
           "sha256": "23bf8b9c62eb0f782c90575cb0be2c76c43c09fee6935b86bfe892b637f99c53"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "03-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 49012,
-          "sha256": "1ed7025dd39f7da8d3f9175f74bae22a23987389a98b2031f1504f30af54f573",
-          "derived_from": [
-            "23bf8b9c62eb0f782c90575cb0be2c76c43c09fee6935b86bfe892b637f99c53"
-          ]
+          "sha256": "1ed7025dd39f7da8d3f9175f74bae22a23987389a98b2031f1504f30af54f573"
         }
       ]
     },
     {
-      "media_index": 4,
-      "presentation_kind": "image",
+      "index": 4,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "04-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1200,
           "height": 1600,
@@ -113,22 +98,15 @@
           "sha256": "7155d61e3861ed5c790d635f90f91d85d0841cf42fec244b9a0517bbc983ca9c"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "04-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 28620,
-          "sha256": "1be1589490588a557d1ceb5ef7da73ccaa5812c2fbfc8c0074a4bbd841296994",
-          "derived_from": [
-            "7155d61e3861ed5c790d635f90f91d85d0841cf42fec244b9a0517bbc983ca9c"
-          ]
+          "sha256": "1be1589490588a557d1ceb5ef7da73ccaa5812c2fbfc8c0074a4bbd841296994"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

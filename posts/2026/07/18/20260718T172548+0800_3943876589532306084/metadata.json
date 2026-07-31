@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3943876589532306084",
   "item_type": "post",
   "published_at_utc": "2026-07-18T09:25:48Z",
   "published_at_taipei": "2026-07-18T17:25:48+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-19T16:45:53Z",
   "caption": "Day 1 周遊記拍完收工 我們選擇不坐車回家 繼續漫步探索這個城市 這裡天黑的很晚 彷彿替這趟旅程多留了一些時間 杜哥持續嘰嘰喳喳 阿ken持續敷衍的傾聽 罐頭持續尋找美食 就這樣子 慢慢的走到天黑",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3024,
           "height": 2268,
@@ -26,28 +26,23 @@
           "sha256": "e6fa6996e469fb8b67e30aaacf6135ff069c5638b3538a7bed5e3f9fedab460e"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 60712,
-          "sha256": "8a37f6aa420178ff79fa16cd02178101fe868abcf311c55906911da26b96305c",
-          "derived_from": [
-            "e6fa6996e469fb8b67e30aaacf6135ff069c5638b3538a7bed5e3f9fedab460e"
-          ]
+          "sha256": "8a37f6aa420178ff79fa16cd02178101fe868abcf311c55906911da26b96305c"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3638,
           "height": 2728,
@@ -55,28 +50,23 @@
           "sha256": "3ab63f3e8803d523dc656e9460ea78897c29117bd67067f69e6b74a3495f2fe2"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 59780,
-          "sha256": "d01546924b95d82895e5cc4fc6f47fee73ac9a3a5b2e893c305d35f757366286",
-          "derived_from": [
-            "3ab63f3e8803d523dc656e9460ea78897c29117bd67067f69e6b74a3495f2fe2"
-          ]
+          "sha256": "d01546924b95d82895e5cc4fc6f47fee73ac9a3a5b2e893c305d35f757366286"
         }
       ]
     },
     {
-      "media_index": 3,
-      "presentation_kind": "image",
+      "index": 3,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "03-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 4096,
           "height": 3072,
@@ -84,28 +74,23 @@
           "sha256": "5c0cd2ffa6b720276e38487fc16bb9dd2d4a74502235dbc0841471190f6cecf4"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "03-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 13598,
-          "sha256": "9c00ad18a74a9f183412eaa739218adbf3d83ed970d95a53e62cdcdbcdfe308e",
-          "derived_from": [
-            "5c0cd2ffa6b720276e38487fc16bb9dd2d4a74502235dbc0841471190f6cecf4"
-          ]
+          "sha256": "9c00ad18a74a9f183412eaa739218adbf3d83ed970d95a53e62cdcdbcdfe308e"
         }
       ]
     },
     {
-      "media_index": 4,
-      "presentation_kind": "image",
+      "index": 4,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "04-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3024,
           "height": 2268,
@@ -113,28 +98,23 @@
           "sha256": "47b668274d831f7cc57b5ab3a7282194d1ed97f1429a1532124d0faccbb29f5c"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "04-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 43172,
-          "sha256": "5667e5a5d62f836871a675f76bcca3d182153d52e3143d28954bb89414e7949a",
-          "derived_from": [
-            "47b668274d831f7cc57b5ab3a7282194d1ed97f1429a1532124d0faccbb29f5c"
-          ]
+          "sha256": "5667e5a5d62f836871a675f76bcca3d182153d52e3143d28954bb89414e7949a"
         }
       ]
     },
     {
-      "media_index": 5,
-      "presentation_kind": "image",
+      "index": 5,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "05-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 4096,
           "height": 3072,
@@ -142,28 +122,23 @@
           "sha256": "4b20a46efad3325c4e4eacfa91091bdc10301eccc1967933f897e14e1e0e472e"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "05-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 58338,
-          "sha256": "788c4bdb72f0bc57470d0158d7855b9213bc586f3cf6244ed68c6de3949b0df1",
-          "derived_from": [
-            "4b20a46efad3325c4e4eacfa91091bdc10301eccc1967933f897e14e1e0e472e"
-          ]
+          "sha256": "788c4bdb72f0bc57470d0158d7855b9213bc586f3cf6244ed68c6de3949b0df1"
         }
       ]
     },
     {
-      "media_index": 6,
-      "presentation_kind": "image",
+      "index": 6,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "06-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3024,
           "height": 2268,
@@ -171,22 +146,15 @@
           "sha256": "e134f28ccbd05cae1a3d6c3e30237ac8eb4775282adda2c19c4c3408cdf5af7b"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "06-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 43910,
-          "sha256": "a36043df21d2f8467bcd7eeb96b5f1d8230f65372996603582f2eafbb262a001",
-          "derived_from": [
-            "e134f28ccbd05cae1a3d6c3e30237ac8eb4775282adda2c19c4c3408cdf5af7b"
-          ]
+          "sha256": "a36043df21d2f8467bcd7eeb96b5f1d8230f65372996603582f2eafbb262a001"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

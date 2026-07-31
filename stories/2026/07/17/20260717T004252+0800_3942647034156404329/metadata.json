@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3942647034156404329",
   "item_type": "story",
   "published_at_utc": "2026-07-16T16:42:52Z",
   "published_at_taipei": "2026-07-17T00:42:52+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:29Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of grass, park and text.",
+  "text": "Photo by Jay Chou 周杰倫 on July 16, 2026. May be an image of grass, park and text.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 2346,
@@ -26,22 +26,15 @@
           "sha256": "a0aafcda8ea8149c70ec3cc9ba0f28a54293627eaf2ea6a92b0cd4bdd9136abf"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 25676,
-          "sha256": "9c22f5a313e5fa443bb0815e8b786d83ef000cdfdb487dbb56c1329af9cb0e71",
-          "derived_from": [
-            "a0aafcda8ea8149c70ec3cc9ba0f28a54293627eaf2ea6a92b0cd4bdd9136abf"
-          ]
+          "sha256": "9c22f5a313e5fa443bb0815e8b786d83ef000cdfdb487dbb56c1329af9cb0e71"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

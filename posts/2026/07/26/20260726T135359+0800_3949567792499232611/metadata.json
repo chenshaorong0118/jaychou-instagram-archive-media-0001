@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3949567792499232611",
   "item_type": "post",
   "published_at_utc": "2026-07-26T05:53:59Z",
   "published_at_taipei": "2026-07-26T13:53:59+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-29T01:44:05Z",
   "caption": "@phantaci_06 x @jumpman23 ✌🏻",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": false,
+  "has_video": true,
+  "has_audio": true,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "video",
+      "index": 1,
+      "kind": "video",
       "assets": [
         {
-          "role": "primary_video",
+          "type": "video",
           "filename": "01-video.mp4",
-          "origin": "instagram",
           "mime_type": "video/mp4",
           "width": 768,
           "height": 576,
@@ -26,9 +26,8 @@
           "sha256": "3e7d01bb605c0a470b8b4a204e19289ae2cabb6706958b270dcf60d88ab1dc83"
         },
         {
-          "role": "video_poster",
+          "type": "poster",
           "filename": "01-video-poster.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 480,
           "height": 853,
@@ -36,22 +35,15 @@
           "sha256": "e06ddc75547e9c35c1a2f611ba42088d073e25ac69a364e160c5232fac67331e"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 480,
           "bytes": 24674,
-          "sha256": "d9d866b2c50c38121b87fb537711e59ef3a642373f2590bc71987865ffb137fc",
-          "derived_from": [
-            "3e7d01bb605c0a470b8b4a204e19289ae2cabb6706958b270dcf60d88ab1dc83"
-          ]
+          "sha256": "d9d866b2c50c38121b87fb537711e59ef3a642373f2590bc71987865ffb137fc"
         }
       ]
     }
-  ],
-  "has_image": false,
-  "has_video": true,
-  "has_audio": true
+  ]
 }

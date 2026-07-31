@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3938928322411029496",
   "item_type": "post",
   "published_at_utc": "2026-07-11T13:34:28Z",
   "published_at_taipei": "2026-07-11T21:34:28+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:34:05Z",
   "caption": "Happy to be back at Wimbledon once again. Even though Roger and I didn’t get to play a doubles exhibition match this time, it was still wonderful to see my old friend.",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 931,
           "height": 660,
@@ -26,28 +26,23 @@
           "sha256": "945d7ed4f4a8664990ffe484a0b928d653832f8c076b33950952816e800b4c65"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 454,
           "bytes": 64140,
-          "sha256": "bccca305a19cb9c3ddb3194ade1828d9d9975214239c24d0a9b9eb3d004dc594",
-          "derived_from": [
-            "945d7ed4f4a8664990ffe484a0b928d653832f8c076b33950952816e800b4c65"
-          ]
+          "sha256": "bccca305a19cb9c3ddb3194ade1828d9d9975214239c24d0a9b9eb3d004dc594"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1357,
           "height": 959,
@@ -55,22 +50,15 @@
           "sha256": "2e7da8925659148f60252b30cd5df718dcf64b9fcd8830c81ea9c9ee34d835a4"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 640,
           "height": 452,
           "bytes": 37112,
-          "sha256": "8930750551ca3b4df8aac4d6ae6ce64a60cdf66138334f710a0343bb54bb837d",
-          "derived_from": [
-            "2e7da8925659148f60252b30cd5df718dcf64b9fcd8830c81ea9c9ee34d835a4"
-          ]
+          "sha256": "8930750551ca3b4df8aac4d6ae6ce64a60cdf66138334f710a0343bb54bb837d"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

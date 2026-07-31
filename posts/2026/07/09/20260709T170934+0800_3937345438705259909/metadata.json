@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3937345438705259909",
   "item_type": "post",
   "published_at_utc": "2026-07-09T09:09:34Z",
   "published_at_taipei": "2026-07-09T17:09:34+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:34:05Z",
   "caption": "🎶🎵 #milano",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3072,
           "height": 4096,
@@ -26,28 +26,23 @@
           "sha256": "f97b42694dc01b238eb85a7ea4b6b4c9ac62972042138663f85e41b23cd2b4f0"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 66790,
-          "sha256": "00da97f46d36d8baa7eb55a37300c3dc59b4336eaca4b8a825ebb841442cfd36",
-          "derived_from": [
-            "f97b42694dc01b238eb85a7ea4b6b4c9ac62972042138663f85e41b23cd2b4f0"
-          ]
+          "sha256": "00da97f46d36d8baa7eb55a37300c3dc59b4336eaca4b8a825ebb841442cfd36"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3072,
           "height": 4096,
@@ -55,22 +50,15 @@
           "sha256": "7d20768bfd461bf65dafbba400b10f5de34a5e6c36598838bc50d7a27ff4ee24"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 87992,
-          "sha256": "3c8a12f1d2b21db2c9fee73592fd3fc5f590f79d6bdf63a6c3ce83996e125263",
-          "derived_from": [
-            "7d20768bfd461bf65dafbba400b10f5de34a5e6c36598838bc50d7a27ff4ee24"
-          ]
+          "sha256": "3c8a12f1d2b21db2c9fee73592fd3fc5f590f79d6bdf63a6c3ce83996e125263"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

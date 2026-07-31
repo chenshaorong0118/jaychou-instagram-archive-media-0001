@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3941213282704056926",
   "item_type": "story",
   "published_at_utc": "2026-07-14T17:14:16Z",
   "published_at_taipei": "2026-07-15T01:14:16+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of wrist watch, pocketwatch and text that says 'TUDOR OK AND SBOCNTG Ctudorwatch Thanks'.",
+  "text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of wrist watch, pocketwatch and text that says 'TUDOR OK AND SBOCNTG Ctudorwatch Thanks'.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 2346,
@@ -26,22 +26,15 @@
           "sha256": "3092f768fc4dabf8dedf202308b9ca360f341822d5dd16dfbeef588bc66ea306"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 35100,
-          "sha256": "af791d764b9b30f71d4a06809cdcb369395f08600d0a6a3c4c50c5708ea034c3",
-          "derived_from": [
-            "3092f768fc4dabf8dedf202308b9ca360f341822d5dd16dfbeef588bc66ea306"
-          ]
+          "sha256": "af791d764b9b30f71d4a06809cdcb369395f08600d0a6a3c4c50c5708ea034c3"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

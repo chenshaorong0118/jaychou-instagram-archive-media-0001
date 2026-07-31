@@ -1,47 +1,40 @@
 {
+  "schema_version": 2,
+  "pk": "3926561033400802281",
+  "item_type": "post",
+  "published_at_utc": "2026-06-24T12:06:57Z",
+  "published_at_taipei": "2026-06-24T20:06:57+08:00",
   "caption": "We bring the pulse 🎶🎵🎹🎻 you bring the dance🕺🏻 \n#argentina #tango #libertango",
-  "captured_at": "2026-07-08T07:21:32Z",
-  "display_timezone": "Asia/Taipei",
-  "has_audio": true,
+  "text": null,
+  "shared_post": null,
+  "music": null,
   "has_image": false,
   "has_video": true,
-  "item_type": "post",
+  "has_audio": true,
   "media": [
     {
+      "index": 1,
+      "kind": "video",
       "assets": [
         {
-          "bytes": 10364614,
+          "type": "video",
           "filename": "01-video.mp4",
-          "height": 1280,
           "mime_type": "video/mp4",
-          "origin": "instagram",
-          "role": "primary_video",
-          "sha256": "cd54891d32433871b1a2d7b4055e521ff4a62f85051ffa7e5e6001331d771f27",
-          "width": 720
+          "width": 720,
+          "height": 1280,
+          "bytes": 10364614,
+          "sha256": "cd54891d32433871b1a2d7b4055e521ff4a62f85051ffa7e5e6001331d771f27"
         },
         {
-          "bytes": 23200,
-          "derived_from": [
-            "cd54891d32433871b1a2d7b4055e521ff4a62f85051ffa7e5e6001331d771f27"
-          ],
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "height": 640,
           "mime_type": "image/webp",
-          "origin": "derived_thumbnail",
-          "role": "thumbnail",
-          "sha256": "82af6367fd509ab651b79c928a176be78c4aacff61a3806d35fb4dd173f3386f",
-          "width": 360
+          "width": 360,
+          "height": 640,
+          "bytes": 23200,
+          "sha256": "82af6367fd509ab651b79c928a176be78c4aacff61a3806d35fb4dd173f3386f"
         }
-      ],
-      "media_index": 1,
-      "presentation_kind": "video"
+      ]
     }
-  ],
-  "music": null,
-  "pk": "3926561033400802281",
-  "published_at_taipei": "2026-06-24T20:06:57+08:00",
-  "published_at_utc": "2026-06-24T12:06:57Z",
-  "schema_version": 1,
-  "shared_post": null,
-  "visible_text": null
+  ]
 }

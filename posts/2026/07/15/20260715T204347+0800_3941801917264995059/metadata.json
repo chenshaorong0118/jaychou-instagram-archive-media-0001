@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3941801917264995059",
   "item_type": "post",
   "published_at_utc": "2026-07-15T12:43:47Z",
   "published_at_taipei": "2026-07-15T20:43:47+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-19T16:45:53Z",
   "caption": "雖然我們一個是賽車手 一個是歌手 但我們都也想成為網球選手 😜",
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 3072,
           "height": 4096,
@@ -26,28 +26,23 @@
           "sha256": "da144247fdb2794093e9e12983d4844d9acf319f9877e5c6b6daa445f6095a84"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 49862,
-          "sha256": "f48f6d2a09c5812dc2d4c3b57904eb523f2796f0aca7b52ac65d0e6d101c60a2",
-          "derived_from": [
-            "da144247fdb2794093e9e12983d4844d9acf319f9877e5c6b6daa445f6095a84"
-          ]
+          "sha256": "f48f6d2a09c5812dc2d4c3b57904eb523f2796f0aca7b52ac65d0e6d101c60a2"
         }
       ]
     },
     {
-      "media_index": 2,
-      "presentation_kind": "image",
+      "index": 2,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "02-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 2316,
           "height": 3088,
@@ -55,22 +50,15 @@
           "sha256": "87db657590c8cf9a74499d53f8c62ddfd9335b493a51d32aa97f7f465742c63b"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "02-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 480,
           "height": 640,
           "bytes": 66680,
-          "sha256": "630448893ebb1a7eda89b65a12f0bdbb5bfa6f0be14ae6c447ed7957b21a8991",
-          "derived_from": [
-            "87db657590c8cf9a74499d53f8c62ddfd9335b493a51d32aa97f7f465742c63b"
-          ]
+          "sha256": "630448893ebb1a7eda89b65a12f0bdbb5bfa6f0be14ae6c447ed7957b21a8991"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

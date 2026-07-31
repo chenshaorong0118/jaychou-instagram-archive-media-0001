@@ -1,17 +1,14 @@
 # 贡献指南 / Contributing
 
-本仓库不接受媒体、录屏、截屏、无 Instagram PK 的内容、`metadata.json` 或
-manifest 条目的 Issue/PR 投稿。媒体只由维护者本地的规范 Instagram 采集与双仓库
-发布流程写入。
+欢迎修正验证器、Schema 与文档。本仓库不通过 Issue 或 Pull Request 接收媒体、
+截图、录屏、条目描述或 manifest 投稿。
 
-This repository does not accept issue or pull-request submissions of media, screen
-recordings, screenshots, content without an Instagram PK, `metadata.json`, or
-manifest rows. Media is written only by the maintainer's canonical local Instagram
-collection and dual-repository publication workflow.
+Corrections to verifiers, schemas, and documentation are welcome. Media files,
+screenshots, recordings, item descriptions, and manifest rows are not accepted
+through issues or pull requests.
 
-验证脚本、Schema 和文档修正可以提交，但不得包含 Cookie、Token、原始接口响应、
-签名 CDN URL、本地数据库、运行日志或授权证明。
+提交内容不得包含 Cookie、Token、签名 URL、原始接口响应、日志、本地数据库、
+绝对路径或授权材料。
 
-Corrections to verification code, schemas, and documentation are welcome, but must
-not contain cookies, tokens, raw API responses, signed CDN URLs, local databases,
-runtime logs, or permission records.
+Never submit cookies, tokens, signed URLs, raw API responses, logs, local
+databases, absolute paths, or authorization material.

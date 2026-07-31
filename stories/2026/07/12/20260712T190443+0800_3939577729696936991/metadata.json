@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3939577729696936991",
   "item_type": "story",
   "published_at_utc": "2026-07-12T11:04:43Z",
   "published_at_taipei": "2026-07-12T19:04:43+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of boots, toecap shoes, sneakers and text.",
+  "text": "Photo by Jay Chou 周杰倫 on July 12, 2026. May be an image of boots, toecap shoes, sneakers and text.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1919,
@@ -26,22 +26,15 @@
           "sha256": "9cd9abb15f510bd93c016c484bf08b265ee1af1baa95e3e59f6d689e7d91fe26"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 16156,
-          "sha256": "d1f4c87c6fa12f4ab6790bb003829275482bbe8c7f216690aeffce9c9a829b39",
-          "derived_from": [
-            "9cd9abb15f510bd93c016c484bf08b265ee1af1baa95e3e59f6d689e7d91fe26"
-          ]
+          "sha256": "d1f4c87c6fa12f4ab6790bb003829275482bbe8c7f216690aeffce9c9a829b39"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

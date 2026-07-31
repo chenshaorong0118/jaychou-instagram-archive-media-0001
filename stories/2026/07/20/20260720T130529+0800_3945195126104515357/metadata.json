@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3945195126104515357",
   "item_type": "story",
   "published_at_utc": "2026-07-20T05:05:29Z",
   "published_at_taipei": "2026-07-20T13:05:29+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-20T15:28:12Z",
   "caption": null,
-  "visible_text": "J-Style Trip",
+  "text": "J-Style Trip",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": true,
+  "has_audio": true,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image_with_audio",
+      "index": 1,
+      "kind": "image_with_audio",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1080,
           "height": 1919,
@@ -26,9 +26,8 @@
           "sha256": "438e7f8ec796126df75f016707f7e8822056e76151fd5ffb38a11f7f0af63e70"
         },
         {
-          "role": "playable_video",
+          "type": "video",
           "filename": "01-video-with-audio.mp4",
-          "origin": "derived_remux",
           "mime_type": "video/mp4",
           "width": 1080,
           "height": 1920,
@@ -36,29 +35,18 @@
           "audio_codec": "aac",
           "duration_ms": 15000,
           "bytes": 686589,
-          "sha256": "208d1c0645e6016562281cdb022090e991a2b8cfe31ef8feeb4dc338d14bb285",
-          "derived_from": [
-            "b5c095dfead3e4f0bbb0efca157976481a74ccfccd38a7b4e44b5fc3cf02de24",
-            "83c0930415a36785881c63e54b30aa3ece8002480c00c661f1dd44a5a3915ebf"
-          ]
+          "sha256": "208d1c0645e6016562281cdb022090e991a2b8cfe31ef8feeb4dc338d14bb285"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 24748,
-          "sha256": "fd2afd209d9de348a001c496aea1f1153e618bd08eba7a8930699c71f6ab4d43",
-          "derived_from": [
-            "438e7f8ec796126df75f016707f7e8822056e76151fd5ffb38a11f7f0af63e70"
-          ]
+          "sha256": "fd2afd209d9de348a001c496aea1f1153e618bd08eba7a8930699c71f6ab4d43"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": true,
-  "has_audio": true
+  ]
 }

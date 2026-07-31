@@ -1,47 +1,40 @@
 {
+  "schema_version": 2,
+  "pk": "3737257621490088601",
+  "item_type": "post",
+  "published_at_utc": "2025-10-06T07:32:34Z",
+  "published_at_taipei": "2025-10-06T15:32:34+08:00",
   "caption": "Jay Chou and Roger Federer: an encounter.\n\nBetween centre stage and centre court, @JayChou and @RogerFederer meet in transit – their legacy in tow.\n\n#RIMOWA #NeverStill",
-  "captured_at": "2026-07-08T07:21:53Z",
-  "display_timezone": "Asia/Taipei",
-  "has_audio": true,
+  "text": null,
+  "shared_post": null,
+  "music": null,
   "has_image": false,
   "has_video": true,
-  "item_type": "post",
+  "has_audio": true,
   "media": [
     {
+      "index": 1,
+      "kind": "video",
       "assets": [
         {
-          "bytes": 3528029,
+          "type": "video",
           "filename": "01-video.mp4",
-          "height": 1280,
           "mime_type": "video/mp4",
-          "origin": "instagram",
-          "role": "primary_video",
-          "sha256": "127f527609e322dac730addf91fe771903bbb3770142db295ce8f1561546b53d",
-          "width": 720
+          "width": 720,
+          "height": 1280,
+          "bytes": 3528029,
+          "sha256": "127f527609e322dac730addf91fe771903bbb3770142db295ce8f1561546b53d"
         },
         {
-          "bytes": 10676,
-          "derived_from": [
-            "127f527609e322dac730addf91fe771903bbb3770142db295ce8f1561546b53d"
-          ],
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "height": 640,
           "mime_type": "image/webp",
-          "origin": "derived_thumbnail",
-          "role": "thumbnail",
-          "sha256": "36c91547897ea4351ecf8958bce36cfa4b8bb71c00ab47e744528db76cc68ebe",
-          "width": 360
+          "width": 360,
+          "height": 640,
+          "bytes": 10676,
+          "sha256": "36c91547897ea4351ecf8958bce36cfa4b8bb71c00ab47e744528db76cc68ebe"
         }
-      ],
-      "media_index": 1,
-      "presentation_kind": "video"
+      ]
     }
-  ],
-  "music": null,
-  "pk": "3737257621490088601",
-  "published_at_taipei": "2025-10-06T15:32:34+08:00",
-  "published_at_utc": "2025-10-06T07:32:34Z",
-  "schema_version": 1,
-  "shared_post": null,
-  "visible_text": null
+  ]
 }

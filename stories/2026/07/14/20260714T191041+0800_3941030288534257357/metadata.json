@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3941030288534257357",
   "item_type": "story",
   "published_at_utc": "2026-07-14T11:10:41Z",
   "published_at_taipei": "2026-07-14T19:10:41+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of one or more people, hat and text that says '這個笨蛋把化妝的給我忘在 飛機上 都來到工作現場了. ··· 你們說我該怎麽懲罰他'.",
+  "text": "Photo by Jay Chou 周杰倫 on July 14, 2026. May be an image of one or more people, hat and text that says '這個笨蛋把化妝的給我忘在 飛機上 都來到工作現場了. ··· 你們說我該怎麽懲罰他'.",
   "shared_post": null,
   "music": null,
+  "has_image": true,
+  "has_video": false,
+  "has_audio": false,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "image",
+      "index": 1,
+      "kind": "image",
       "assets": [
         {
-          "role": "image",
+          "type": "image",
           "filename": "01-image.jpg",
-          "origin": "instagram",
           "mime_type": "image/jpeg",
           "width": 1320,
           "height": 2346,
@@ -26,22 +26,15 @@
           "sha256": "376e78986ecb4ba299f40fbd0ff46e7ada8625d5d58f4678dd38d6eb9774086e"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 33356,
-          "sha256": "fd3e68ef37a3ceb2a9c7e26394c645fbf1c7bbb1409e56bfb01f248f40dc7e6b",
-          "derived_from": [
-            "376e78986ecb4ba299f40fbd0ff46e7ada8625d5d58f4678dd38d6eb9774086e"
-          ]
+          "sha256": "fd3e68ef37a3ceb2a9c7e26394c645fbf1c7bbb1409e56bfb01f248f40dc7e6b"
         }
       ]
     }
-  ],
-  "has_image": true,
-  "has_video": false,
-  "has_audio": false
+  ]
 }

@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "pk": "3941036897472088068",
   "item_type": "story",
   "published_at_utc": "2026-07-14T11:23:47Z",
   "published_at_taipei": "2026-07-14T19:23:47+08:00",
-  "display_timezone": "Asia/Taipei",
-  "captured_at": "2026-07-23T13:31:28Z",
   "caption": null,
-  "visible_text": null,
+  "text": null,
   "shared_post": null,
   "music": null,
+  "has_image": false,
+  "has_video": true,
+  "has_audio": true,
   "media": [
     {
-      "media_index": 1,
-      "presentation_kind": "video",
+      "index": 1,
+      "kind": "video",
       "assets": [
         {
-          "role": "primary_video",
+          "type": "video",
           "filename": "01-video.mp4",
-          "origin": "instagram",
           "mime_type": "video/mp4",
           "width": 720,
           "height": 1280,
@@ -29,35 +29,24 @@
           "sha256": "15af260b166745f48898cdc25e37a33680b203f8d8eb2dd67b45dbe61b378739"
         },
         {
-          "role": "video_poster",
+          "type": "poster",
           "filename": "01-video-poster.jpg",
-          "origin": "derived_render",
           "mime_type": "image/jpeg",
           "width": 720,
           "height": 1280,
           "bytes": 119128,
-          "sha256": "6b898608a5f52f8e5b32a1655d5c798c35648cd018e882939fa148bc650f2514",
-          "derived_from": [
-            "15af260b166745f48898cdc25e37a33680b203f8d8eb2dd67b45dbe61b378739"
-          ]
+          "sha256": "6b898608a5f52f8e5b32a1655d5c798c35648cd018e882939fa148bc650f2514"
         },
         {
-          "role": "thumbnail",
+          "type": "thumbnail",
           "filename": "01-thumbnail.webp",
-          "origin": "derived_thumbnail",
           "mime_type": "image/webp",
           "width": 360,
           "height": 640,
           "bytes": 24208,
-          "sha256": "4dadd817044861427f582bbe77cc674fff1558f205ddcc1973dcf32b0ee908a2",
-          "derived_from": [
-            "15af260b166745f48898cdc25e37a33680b203f8d8eb2dd67b45dbe61b378739"
-          ]
+          "sha256": "4dadd817044861427f582bbe77cc674fff1558f205ddcc1973dcf32b0ee908a2"
         }
       ]
     }
-  ],
-  "has_image": false,
-  "has_video": true,
-  "has_audio": true
+  ]
 }

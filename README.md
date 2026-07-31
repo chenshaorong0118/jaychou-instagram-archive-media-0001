@@ -1,18 +1,19 @@
-# Jay Chou Instagram Archive — Media Shard
+# Jay Chou Instagram Archive — Media
 
-> 非官方公开归档媒体分库 / Unofficial public archive media shard
+> 非官方公开归档媒体分库 / Unofficial public archive media repository
 
-本仓库保存已验证的公开归档媒体与条目级元数据。总索引与视觉时间线位于主索引仓库。
+本仓库保存画廊使用的媒体、WebP 缩略图和精简条目描述。浏览、搜索与时间线位于
+[主索引仓库](https://github.com/chenshaorong0118/jaychou-instagram-archive)。
 
-This repository stores verified archive media and item-level metadata. Cross-repository search and visual timelines live in the main index repository.
+This repository stores gallery media, WebP thumbnails, and compact item
+descriptions. Browse and search through the
+[main index repository](https://github.com/chenshaorong0118/jaychou-instagram-archive).
 
-- Items / 条目：70
-- Public assets / 公开资产：130
-- Media bytes / 媒体字节：185889011
-- Range / 时间范围：2026-07-04T23:08:41+08:00 — 2026-07-29T22:50:19+08:00
+```bash
+python3 tools/verify_media.py .
+```
 
-Run `python3 tools/verify_media.py .` to verify the shard.
+使用媒体前请阅读 [MEDIA_RIGHTS.md](MEDIA_RIGHTS.md)。代码许可证不覆盖媒体内容。
 
-代码与文档贡献规则见 [CONTRIBUTING.md](CONTRIBUTING.md)；本仓库不接受媒体 PR 投稿。
-
-使用媒体前请阅读 [MEDIA_RIGHTS.md](MEDIA_RIGHTS.md)。代码许可不覆盖归档媒体。
+See [MEDIA_RIGHTS.md](MEDIA_RIGHTS.md) before reusing media. The code license
+does not cover archived media.
