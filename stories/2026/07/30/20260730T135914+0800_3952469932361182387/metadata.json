@@ -1,0 +1,40 @@
+{
+  "caption": null,
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "story",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 298305,
+          "filename": "01-image.jpg",
+          "height": 1919,
+          "mime_type": "image/jpeg",
+          "sha256": "308fb5b1e3052cdbaa8b061a50d9c606208a41a476e19ad08ad27af538839943",
+          "type": "image",
+          "width": 1080
+        },
+        {
+          "bytes": 35024,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "237d93a995b83e0091da54048f38fe5781b6d9c74ab331055b8a3ccb6f1c4250",
+          "type": "thumbnail",
+          "width": 360
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3952469932361182387",
+  "published_at_taipei": "2026-07-30T13:59:14+08:00",
+  "published_at_utc": "2026-07-30T05:59:14Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
