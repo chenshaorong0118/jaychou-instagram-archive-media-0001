@@ -1,0 +1,40 @@
+{
+  "caption": "@jaychou under the stained glass ceiling ✨\n\nFilming is underway for J-Style Trip Season 4 and NGV will be making an appearance.\n\nStay tuned – it’s coming soon.",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 1492127,
+          "filename": "01-image.jpg",
+          "height": 4096,
+          "mime_type": "image/jpeg",
+          "sha256": "0f10f70f69025e6e44073f66daf9e55a488188b13b3884a216f2d5a41f5252a1",
+          "type": "image",
+          "width": 3072
+        },
+        {
+          "bytes": 86832,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "e36639774eb23d556d9c1202eb700be07c8d96a07b4288cf473aaa52044aac89",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3957593466013630209",
+  "published_at_taipei": "2026-08-06T15:40:30+08:00",
+  "published_at_utc": "2026-08-06T07:40:30Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
