@@ -1,0 +1,40 @@
+{
+  "caption": "我們收藏的 不只是這些丹麥的老件 而是把那趟丹麥旅程留下的回憶 都帶回了家 We didn’t just bring home these original Danish chairs. We brought home a little piece of our journey through Denmark. \n#denmark",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 583132,
+          "filename": "01-image.jpg",
+          "height": 2912,
+          "mime_type": "image/jpeg",
+          "sha256": "3de5810c1071c6f27c8bb81c54e04f3321ca964d98da6ad14f7f5128faa2805c",
+          "type": "image",
+          "width": 2624
+        },
+        {
+          "bytes": 37126,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "753371573e53b5e6d5ab98872e4d6edc8ab13c20b47ee80af54126ff73e271e1",
+          "type": "thumbnail",
+          "width": 577
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4032344239387816058",
+  "published_at_taipei": "2026-11-17T19:07:26+08:00",
+  "published_at_utc": "2026-11-17T11:07:26Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

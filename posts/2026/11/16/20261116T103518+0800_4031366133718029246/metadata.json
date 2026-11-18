@@ -1,0 +1,40 @@
+{
+  "caption": "Quite a large Picasso painting ✌🏻",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 1249070,
+          "filename": "01-image.jpg",
+          "height": 4096,
+          "mime_type": "image/jpeg",
+          "sha256": "5fb1386eebc8be0a73db052c9da89e92252e9356480f2956bb1442f7b194c4b5",
+          "type": "image",
+          "width": 3072
+        },
+        {
+          "bytes": 66180,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "97dfd98b58539a6e48ab7e874e7d2be04b23a1d2460f96c93b72b366549f722a",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4031366133718029246",
+  "published_at_taipei": "2026-11-16T10:35:18+08:00",
+  "published_at_utc": "2026-11-16T02:35:18Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
