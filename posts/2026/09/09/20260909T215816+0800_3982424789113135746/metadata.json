@@ -1,0 +1,40 @@
+{
+  "caption": "Am I a singer, an actor, or a director?\nYou tell me. 😏\n\nStay tuned for the new MV.",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 214222,
+          "filename": "01-image.jpg",
+          "height": 810,
+          "mime_type": "image/jpeg",
+          "sha256": "63880529fa96f0bc00c98a5da92adda5818f9b1173c8dfd7cc07e9984d494cbb",
+          "type": "image",
+          "width": 1320
+        },
+        {
+          "bytes": 49732,
+          "filename": "01-thumbnail.webp",
+          "height": 393,
+          "mime_type": "image/webp",
+          "sha256": "4a31ae2b20f6dcd54f9e2154aeeef4d54ac3227e1ed0ab8285a00d33301d6d7b",
+          "type": "thumbnail",
+          "width": 640
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3982424789113135746",
+  "published_at_taipei": "2026-09-09T21:58:16+08:00",
+  "published_at_utc": "2026-09-09T13:58:16Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

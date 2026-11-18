@@ -1,0 +1,64 @@
+{
+  "caption": "In the summer of 1910, Schiele lived in Krumau. This little town, with its medieval architecture, winding streets, and the Vltava River running through it, became a place he returned to again and again in his work.\n\nThe following year, he painted this piece, inspired by the town hall in the main square.\n\nThe painting has been exhibited several times at the Leopold Museum in Vienna. I was just looking for a photo of the square and suddenly realized… I’ve actually been to this old town before.\n\nThinking about it now, this piece feels even more special to me.",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 119041,
+          "filename": "01-image.jpg",
+          "height": 572,
+          "mime_type": "image/jpeg",
+          "sha256": "24f55c8f9583d78b39c90c8e080fc2576d34aa857708ace9a84e7c6bc3a884b0",
+          "type": "image",
+          "width": 745
+        },
+        {
+          "bytes": 61964,
+          "filename": "01-thumbnail.webp",
+          "height": 491,
+          "mime_type": "image/webp",
+          "sha256": "c0fc744077f2c023d77bcd9134889a59c9f7cd8dc2054f20e13bd7c39a2a97cd",
+          "type": "thumbnail",
+          "width": 640
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 22319,
+          "filename": "02-image.jpg",
+          "height": 261,
+          "mime_type": "image/jpeg",
+          "sha256": "c26c44627c1e07258958e122062dfcb05792e41cebc218a2b4212e33823fb69d",
+          "type": "image",
+          "width": 338
+        },
+        {
+          "bytes": 12892,
+          "filename": "02-thumbnail.webp",
+          "height": 261,
+          "mime_type": "image/webp",
+          "sha256": "aa399d2d17214491613243732924940bcc6a799d96359053c35584383ce32e18",
+          "type": "thumbnail",
+          "width": 338
+        }
+      ],
+      "index": 2,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3996312583569403281",
+  "published_at_taipei": "2026-09-29T01:46:45+08:00",
+  "published_at_utc": "2026-09-28T17:46:45Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

@@ -1,0 +1,40 @@
+{
+  "caption": "今晚跟我美嗎女士合唱了聽媽媽的話😜",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 126688,
+          "filename": "01-image.jpg",
+          "height": 1164,
+          "mime_type": "image/jpeg",
+          "sha256": "9c5e029ec306ecfae5516880cc51a454f550597ee9cd3b201ebc5579f5a6f13a",
+          "type": "image",
+          "width": 873
+        },
+        {
+          "bytes": 33440,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "af3ec28cab1ae003e3bd696613798d0cc0171e909f2980734cafb5fcdb5fdc28",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3987467584437965587",
+  "published_at_taipei": "2026-09-16T20:54:23+08:00",
+  "published_at_utc": "2026-09-16T12:54:23Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
