@@ -1,0 +1,97 @@
+{
+  "caption": "Warming up before the show 😜",
+  "has_audio": true,
+  "has_image": false,
+  "has_video": true,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 34003656,
+          "duration_ms": 33700,
+          "filename": "01-video.mp4",
+          "height": 1440,
+          "mime_type": "video/mp4",
+          "sha256": "492292d0c2f1d80d3acf7938f762a0774bca9a058d7e5b1c940d0bb0ae701460",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1080
+        },
+        {
+          "bytes": 25986,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "1501c693555d2ee7a4accf305f2bcc44eb27af2e37aa01253bc15389f262065d",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 1,
+      "kind": "video"
+    },
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 13908237,
+          "duration_ms": 18933,
+          "filename": "02-video.mp4",
+          "height": 1440,
+          "mime_type": "video/mp4",
+          "sha256": "1bb7b70adf8a5bce99661f5757b879b23555df474511df692b7fc038889f26ef",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1080
+        },
+        {
+          "bytes": 28446,
+          "filename": "02-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "3b5a74f177e0840a343b5c6f22931eb50babc3b38c64f59c4a3fb626d04866ea",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 2,
+      "kind": "video"
+    },
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 8327508,
+          "duration_ms": 9589,
+          "filename": "03-video.mp4",
+          "height": 1440,
+          "mime_type": "video/mp4",
+          "sha256": "e7a1064815fa5d78cf8aa2aa0686cc1ae1a4ff80ffff2fd53274c35489972505",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1080
+        },
+        {
+          "bytes": 28562,
+          "filename": "03-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "a061bfecc4701c6ab532eada3cc28f73513832e80ac70e926562a7683dd9ccbf",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 3,
+      "kind": "video"
+    }
+  ],
+  "music": null,
+  "pk": "4008967681176968913",
+  "published_at_taipei": "2026-10-16T12:50:10+08:00",
+  "published_at_utc": "2026-10-16T04:50:10Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

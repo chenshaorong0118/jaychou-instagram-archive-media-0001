@@ -1,0 +1,64 @@
+{
+  "caption": "Always creating. Always moving. Always energized.\n\nFor La Mer ambassador @jaychou, youthful energy is a way of life, and The Treatment Lotion Collection is his favorite way to bring that same vitality to skin. Infusing skin with essential power, every drop ignites energy within to fuel renewal and radiant youth.\n#LaMer #LaMerSkincare #LaMerTreatmentLotion",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 367404,
+          "filename": "01-image.jpg",
+          "height": 1918,
+          "mime_type": "image/jpeg",
+          "sha256": "2f46c0cbbf673d7b2c4078fd88ba15e71e252010d91ef1b9b60c13a312c1e1e3",
+          "type": "image",
+          "width": 1440
+        },
+        {
+          "bytes": 18832,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "f0812e5ed84ebf39007ef8ff1270d8739a5e417bebb5ef5a0d1b4e6396b063ee",
+          "type": "thumbnail",
+          "width": 481
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 408121,
+          "filename": "02-image.jpg",
+          "height": 1918,
+          "mime_type": "image/jpeg",
+          "sha256": "cb27db939d1c97efadf033d86b705d0b458d3668f885151e237f5a0b574bdb1b",
+          "type": "image",
+          "width": 1439
+        },
+        {
+          "bytes": 20578,
+          "filename": "02-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "889cb6ba93dd3efd4e311edfd592b168efca921d3bac2e3ada02047282f08e6e",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 2,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3999007413151905006",
+  "published_at_taipei": "2026-10-02T21:02:06+08:00",
+  "published_at_utc": "2026-10-02T13:02:06Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

@@ -1,0 +1,43 @@
+{
+  "caption": "Welcome to the King of Mandopop 🎤 @jaychou \n\n#rolexshanghaimasters #shanghai #jaychou #tennis",
+  "has_audio": true,
+  "has_image": false,
+  "has_video": true,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 4507097,
+          "duration_ms": 8335,
+          "filename": "01-video.mp4",
+          "height": 1920,
+          "mime_type": "video/mp4",
+          "sha256": "53e16489286416328775f5c823255807d3c1f9dc89ab45bae9da306f13e50309",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1080
+        },
+        {
+          "bytes": 18956,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "608235033a26a311653f88c9961342797a90844d304ea931abe755979322f2d6",
+          "type": "thumbnail",
+          "width": 360
+        }
+      ],
+      "index": 1,
+      "kind": "video"
+    }
+  ],
+  "music": null,
+  "pk": "4002523344430764730",
+  "published_at_taipei": "2026-10-07T15:27:59+08:00",
+  "published_at_utc": "2026-10-07T07:27:59Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

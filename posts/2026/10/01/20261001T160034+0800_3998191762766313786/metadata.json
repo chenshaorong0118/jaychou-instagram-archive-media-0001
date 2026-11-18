@@ -1,0 +1,88 @@
+{
+  "caption": "This weekend in Nanjing, TUDOR ambassador @jaychou took center stage in unmistakable style, wearing the new #TudorNorthflag. What a performance!\n\n#TudorWatch #BornToDare",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 343797,
+          "filename": "01-image.jpg",
+          "height": 1800,
+          "mime_type": "image/jpeg",
+          "sha256": "126d4e40d546cf5b592882cc56f8b28b67108d520de07ead92b58a11085ce3d9",
+          "type": "image",
+          "width": 1440
+        },
+        {
+          "bytes": 35192,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "88d930fba521ceae6cc1a151b776a2c03dbbfae2345319dbb02b59297e92db2d",
+          "type": "thumbnail",
+          "width": 512
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 540583,
+          "filename": "02-image.jpg",
+          "height": 1800,
+          "mime_type": "image/jpeg",
+          "sha256": "8f20e526a88fe19d57a77285a8b2f50f53ef2e9b1a6a5a4c54e42f86e55e1d50",
+          "type": "image",
+          "width": 1440
+        },
+        {
+          "bytes": 69950,
+          "filename": "02-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "411036fd1885fd639690e7f691e021939dc9fb5239aa21ff1181dd83a9fad0db",
+          "type": "thumbnail",
+          "width": 512
+        }
+      ],
+      "index": 2,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 536266,
+          "filename": "03-image.jpg",
+          "height": 1800,
+          "mime_type": "image/jpeg",
+          "sha256": "1a8df9f8e655c1d5e93646c9d9c968d2e709424626a55674c3ff6f7dd6ae8787",
+          "type": "image",
+          "width": 1440
+        },
+        {
+          "bytes": 71828,
+          "filename": "03-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "625f73f6099d63e81c9d696a13cdd523dac09ef70e782f2ccac7004f9aac62a6",
+          "type": "thumbnail",
+          "width": 512
+        }
+      ],
+      "index": 3,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3998191762766313786",
+  "published_at_taipei": "2026-10-01T16:00:34+08:00",
+  "published_at_utc": "2026-10-01T08:00:34Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

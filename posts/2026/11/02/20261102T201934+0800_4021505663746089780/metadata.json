@@ -1,0 +1,40 @@
+{
+  "caption": "For over a century, this rarely seen work by Egon Schiele has remained without a frame, quietly existing in its original state. Now, I’d like to take my time finding the perfect frame for it.",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 23931,
+          "filename": "01-image.jpg",
+          "height": 464,
+          "mime_type": "image/jpeg",
+          "sha256": "0db3b8b662d5aa2a30eb510d5469a15f941b0ef134d996c1a1fa24f66729a869",
+          "type": "image",
+          "width": 352
+        },
+        {
+          "bytes": 10344,
+          "filename": "01-thumbnail.webp",
+          "height": 464,
+          "mime_type": "image/webp",
+          "sha256": "40073a1bd1e67a72a7fed24698c2a90f758eb77a61f82bf937668e0ecaf35be2",
+          "type": "thumbnail",
+          "width": 352
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4021505663746089780",
+  "published_at_taipei": "2026-11-02T20:19:34+08:00",
+  "published_at_utc": "2026-11-02T12:19:34Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
