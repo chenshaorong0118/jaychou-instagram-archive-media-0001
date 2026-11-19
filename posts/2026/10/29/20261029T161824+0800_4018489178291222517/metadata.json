@@ -1,0 +1,40 @@
+{
+  "caption": "Today, I was sitting by an outdoor tennis court when a few cute little Aussie kids, probably six or seven, in their school uniforms started whispering, “Jay Chou?”\n\nI looked at them curiously, and they asked, “Did you play in the One Point Slam at the Australian Open?” 😂\n\nAfter taking a few photos with them, I started wondering… did they even know I’m actually a singer? 😆😆😆",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 1619732,
+          "filename": "01-image.jpg",
+          "height": 4032,
+          "mime_type": "image/jpeg",
+          "sha256": "f0b5fe792d47c9078e889344548db491c890fb41b7fee1ca214d11bf7e50498b",
+          "type": "image",
+          "width": 3024
+        },
+        {
+          "bytes": 85440,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "eb0270d5d661412c8d34687e263da010e7b72c209140abb7025e4ef14b07767a",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4018489178291222517",
+  "published_at_taipei": "2026-10-29T16:18:24+08:00",
+  "published_at_utc": "2026-10-29T08:18:24Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

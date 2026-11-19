@@ -1,0 +1,40 @@
+{
+  "caption": "Over a century of brushstrokes, paired with a new wooden frame, bringing the colours to life all over again. That‘s why I love changing the frames on so many pieces in my collection.",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 167286,
+          "filename": "01-image.jpg",
+          "height": 1536,
+          "mime_type": "image/jpeg",
+          "sha256": "9a73b8670c133c2e3829d1281ad156dc250875824c59e5ca1e0e19d5ed39494d",
+          "type": "image",
+          "width": 1168
+        },
+        {
+          "bytes": 31976,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "ccca81c827397e764a5d137e885f7ae49a20d63ede0a2232b03b9faa37b3771b",
+          "type": "thumbnail",
+          "width": 487
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4019359690475412953",
+  "published_at_taipei": "2026-10-30T21:22:18+08:00",
+  "published_at_utc": "2026-10-30T13:22:18Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
