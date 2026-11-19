@@ -1,0 +1,43 @@
+{
+  "caption": "哼哼哈嘿  快使用雙節棍！\n最經典的金曲，最閃耀的陣容\n.\n—\n言承旭・吳建豪・周渝民・五月天 阿信\nF✦FOREVER 恆星之城 \n世界巡迴演唱會\n​.\n磅礴返航，登陸體育場\n​.\n✦ 10/6・10/7 北京鳥巢\n銀河加冕・限定場演唱會\n🎫 紛玩島、大麥、貓眼\n​.\n✦ 10/17・10/18 廣州奧體\n星穹相遇・限定場演唱會\n🎫 紛玩島、大麥、貓眼 \n​.\n✦ 11/20・11/21・11/22 上海體育場\n浩瀚同行・上海・限定場\n🎫 售票資訊 Coming Soon\n.\n✦ 11/28・11/29 台北大巨蛋\n光年赴約・台北・限定場\n🎫 10/04 ㊐ 13:00 起，拓元售票開賣\n.\n#雙節棍 #周杰倫 #FForever\n #言承旭 #周渝民 #吳建豪 #五月天阿信",
+  "has_audio": true,
+  "has_image": false,
+  "has_video": true,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 96338191,
+          "duration_ms": 82362,
+          "filename": "01-video.mp4",
+          "height": 1920,
+          "mime_type": "video/mp4",
+          "sha256": "2c0dfcdfe576d8ae72e75a9f4c7c4f81357d9f26af6568cdeea4c756968d330a",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1080
+        },
+        {
+          "bytes": 43704,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "305d672c1e4c3cd346a90f23f5a4fa64b6494011aef3112efa3c95f2c1d593f8",
+          "type": "thumbnail",
+          "width": 360
+        }
+      ],
+      "index": 1,
+      "kind": "video"
+    }
+  ],
+  "music": null,
+  "pk": "3999882531369321500",
+  "published_at_taipei": "2026-10-04T00:00:16+08:00",
+  "published_at_utc": "2026-10-03T16:00:16Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
