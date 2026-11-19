@@ -1,0 +1,43 @@
+{
+  "caption": "Ho girato il videoclip di “Sicily” in Italia qualche mese fa, e questa canzone ha in realtà un legame speciale con uno dei miei vecchi lavori.\n\nL’ispirazione viene da “In the Name of the Father”, un altro videoclip che avevo girato in Italia più di vent’anni fa. All’epoca, il rap in stile mafioso era qualcosa di piuttosto nuovo. Con questo nuovo album, volevo riprendere quel tipo di atmosfera esotica e continuare a esplorare questo stile musicale a modo mio.\n\nSe tra i miei follower su Instagram ci sono italiani, lasciate pure un commento e fatemi sapere cosa ne pensate della canzone o del videoclip! Mi piacerebbe davvero conoscere le vostre reazioni.\n#sicily #mafia #italy",
+  "has_audio": true,
+  "has_image": false,
+  "has_video": true,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 61895940,
+          "duration_ms": 72200,
+          "filename": "01-video.mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "sha256": "a7f601c6a22f82e74dfb7618e85b3bb6284332dfd970399486a15403aef3a42a",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1916
+        },
+        {
+          "bytes": 16906,
+          "filename": "01-thumbnail.webp",
+          "height": 361,
+          "mime_type": "image/webp",
+          "sha256": "e2df32e168e1e222cccacb4435fca57f2a121d1b99a46234cc4037608522c4f0",
+          "type": "thumbnail",
+          "width": 640
+        }
+      ],
+      "index": 1,
+      "kind": "video"
+    }
+  ],
+  "music": null,
+  "pk": "4027832121178383553",
+  "published_at_taipei": "2026-11-11T13:34:15+08:00",
+  "published_at_utc": "2026-11-11T05:34:15Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

@@ -1,0 +1,40 @@
+{
+  "caption": "一早我美嗎女士想要幫媽媽化妝 媽媽因為馬上就要出門了 我只好神救援大喊 「我也想要被妳化妝！」果然吸引了我美嗎女士的注意 直接衝進來把我拉到姐姐的房間要我坐好 打開姐姐的小小化妝箱 開始照著她奇怪的步驟幫我化 感覺看到什麼就拿什麼 我就像一個豁出去的的畫布 讓她隨心所欲的創作 在完成作品之前 其實我已經猜到會是什麼樣子 但衝到鏡子前面 我還是忍不住吞進了想罵出來的髒話 這時候我回到了坐位 她問我好看嗎 問了我好幾次 我吱吱嗚嗚的回答「蠻有趣的」她再次逼問「好看嗎」我只好說「好看😅」最後終於畫完 她跟我來到鏡子面前 她跟我說「我美嗎⋯⋯我比較美…」\n#隨便附上一張照片 #我是不會把照片給大家看的",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 160836,
+          "filename": "01-image.jpg",
+          "height": 1600,
+          "mime_type": "image/jpeg",
+          "sha256": "dce286ff9e147d1affdb35f8f63bd6375daab09c1b4899913a6ee76c3364903e",
+          "type": "image",
+          "width": 1200
+        },
+        {
+          "bytes": 35032,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "4accced57ec9d76633cf62d66bbf30d8a97b1122915375b55368b453935fedcb",
+          "type": "thumbnail",
+          "width": 480
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "3965387005718557906",
+  "published_at_taipei": "2026-08-17T09:58:18+08:00",
+  "published_at_utc": "2026-08-17T01:58:18Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
