@@ -1,0 +1,43 @@
+{
+  "caption": "看起來大家都蠻喜歡我和 @jaychou 的垃圾話可是我們真的是兄弟才可以這樣開玩笑。雖然他打網球和籃球很一般，雖然他很大牌，雖然他不太怎麼笑，他還是很棒的big bro \n\n很多人說我壞。三天後（11/28）你們就看到他多壞。你們看周遊記就知道了。我飛了十幾個小時去紐西蘭被他欺負了兩天 哈哈。這集很好玩，很好笑。希望你們都喜歡因為我肯定永遠不再跟他錄節目了😂😂\n\nSeems like everyone enjoys me and Jay's trashtalk as its our love language lol. Even though he sucks at tennis and is a diva, hes still my guy! Fr its our bond that allows us to joke around like that. \n\nYou all think im the bully? Just wait until this episode of J Style Trip comes out in three days on 11/28 and you'll see who the real bully is",
+  "has_audio": true,
+  "has_image": false,
+  "has_video": true,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "audio_codec": "aac",
+          "bytes": 18338760,
+          "duration_ms": 57165,
+          "filename": "01-video.mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "sha256": "f822f79193bd9b508a626045296ff40ee00298ce84a75d645426f740643c5cef",
+          "type": "video",
+          "video_codec": "h264",
+          "width": 1276
+        },
+        {
+          "bytes": 38074,
+          "filename": "01-thumbnail.webp",
+          "height": 361,
+          "mime_type": "image/webp",
+          "sha256": "fc5fa607e166e51a5b9aa3c00df31b5e52d92daaddf2e7bda590fd91cc6c034e",
+          "type": "thumbnail",
+          "width": 640
+        }
+      ],
+      "index": 1,
+      "kind": "video"
+    }
+  ],
+  "music": null,
+  "pk": "4038018865174144870",
+  "published_at_taipei": "2026-11-25T14:51:15+08:00",
+  "published_at_utc": "2026-11-25T06:51:15Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

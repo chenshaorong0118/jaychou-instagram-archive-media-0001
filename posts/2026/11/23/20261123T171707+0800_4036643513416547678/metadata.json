@@ -1,0 +1,136 @@
+{
+  "caption": "謝謝每一位來到 Sydney 演唱會的朋友們 \n在演唱的時刻 如果能讓你們在某個瞬間找回當年的感動 或是為生活帶來一些溫暖與力量 那我來到這裡開這場演唱會 就值得了 Thank you to everyone who came to my Sydney concert.\nIf, even for a moment during the show, my music brought back some of those special memories and feelings from the past, or brought a little warmth and strength into your lives, then coming all the way here to perform for you was truly worth it.",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 946954,
+          "filename": "01-image.jpg",
+          "height": 3413,
+          "mime_type": "image/jpeg",
+          "sha256": "597973c13e87b829936f3430dbb31ac1f5bd26ecc5a8cf50ef8e0355be0ec40a",
+          "type": "image",
+          "width": 2948
+        },
+        {
+          "bytes": 46794,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "770c439c390a73dd6691c0dc545ed931ed6eabffa2e591a147768a3462959c67",
+          "type": "thumbnail",
+          "width": 553
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 1136799,
+          "filename": "02-image.jpg",
+          "height": 3683,
+          "mime_type": "image/jpeg",
+          "sha256": "a46e7da07dd9cbda7e89d44b8de1e2c0844c8172b679537882fd371849ff88a0",
+          "type": "image",
+          "width": 3181
+        },
+        {
+          "bytes": 51876,
+          "filename": "02-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "eba583d365f3dfc565959ababbbe44e551bfe6b8ce4e924ac45349207afa9ed0",
+          "type": "thumbnail",
+          "width": 553
+        }
+      ],
+      "index": 2,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 1103574,
+          "filename": "03-image.jpg",
+          "height": 3413,
+          "mime_type": "image/jpeg",
+          "sha256": "0fcd6c0724a13aa1c5a4dfbe3435b0f4ae5bd220e8cc7c329a767de4f3c0531b",
+          "type": "image",
+          "width": 2948
+        },
+        {
+          "bytes": 56438,
+          "filename": "03-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "59793e9b3c58b9aac3ec6218dede29a0327d429539b4c451bbd9c46dacc5cb52",
+          "type": "thumbnail",
+          "width": 553
+        }
+      ],
+      "index": 3,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 1215852,
+          "filename": "04-image.jpg",
+          "height": 3467,
+          "mime_type": "image/jpeg",
+          "sha256": "c03c33fca0385973f38db1b4454dcbc2a13ef2c20dbe56a384a1510986ac3060",
+          "type": "image",
+          "width": 2994
+        },
+        {
+          "bytes": 72396,
+          "filename": "04-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "b504b53f3c43445865738c36c1448507e57dfa6eb261233f396c8bbea8a989fc",
+          "type": "thumbnail",
+          "width": 553
+        }
+      ],
+      "index": 4,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 816290,
+          "filename": "05-image.jpg",
+          "height": 2897,
+          "mime_type": "image/jpeg",
+          "sha256": "dfffb078b97e4d96a3e3955e43fe606a2cb5c1fde9dd6060b799f5d787c7d61a",
+          "type": "image",
+          "width": 2502
+        },
+        {
+          "bytes": 56056,
+          "filename": "05-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "5421ee61c42d199d157cad191232652b1ed546e4d7b0d15d1d42c2b6ab92f42f",
+          "type": "thumbnail",
+          "width": 553
+        }
+      ],
+      "index": 5,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4036643513416547678",
+  "published_at_taipei": "2026-11-23T17:17:07+08:00",
+  "published_at_utc": "2026-11-23T09:17:07Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

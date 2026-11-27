@@ -1,0 +1,40 @@
+{
+  "caption": "As a Starbucks ambassador, even though my own signature drink isn’t available at every Starbucks, I still have to give it a try whenever I get the chance! ☕️😎",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 742488,
+          "filename": "01-image.jpg",
+          "height": 4096,
+          "mime_type": "image/jpeg",
+          "sha256": "b28c9f1e5c55ffc9b3639b6adcd16fb1ba9d957a1af8026228c75f85992a7cba",
+          "type": "image",
+          "width": 3728
+        },
+        {
+          "bytes": 30372,
+          "filename": "01-thumbnail.webp",
+          "height": 640,
+          "mime_type": "image/webp",
+          "sha256": "4902c312ad7f222d24c864527f3fd2022ba23c2b9d27db50f87c4fa8b8013108",
+          "type": "thumbnail",
+          "width": 582
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4038680764028593683",
+  "published_at_taipei": "2026-11-26T12:49:19+08:00",
+  "published_at_utc": "2026-11-26T04:49:19Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}

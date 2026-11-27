@@ -1,0 +1,64 @@
+{
+  "caption": "Had a great afternoon in Sydney catching up with the incredibly talented director Justin Lin, known for directing several films in the Fast & Furious franchise.\n\nNow it’s time to head to rehearsals!\n\nSydney, are you ready for tonight’s show?",
+  "has_audio": false,
+  "has_image": true,
+  "has_video": false,
+  "item_type": "post",
+  "media": [
+    {
+      "assets": [
+        {
+          "bytes": 438921,
+          "filename": "01-image.jpg",
+          "height": 2299,
+          "mime_type": "image/jpeg",
+          "sha256": "8cc8180f60b9faf3705e0832a7dc5927328347b9f4d30d830facb197e4071c06",
+          "type": "image",
+          "width": 2936
+        },
+        {
+          "bytes": 34862,
+          "filename": "01-thumbnail.webp",
+          "height": 501,
+          "mime_type": "image/webp",
+          "sha256": "76cedf6e922a7bbe91c80905a30ce19868b889c73e27a3383c2b694b7efc0b35",
+          "type": "thumbnail",
+          "width": 640
+        }
+      ],
+      "index": 1,
+      "kind": "image"
+    },
+    {
+      "assets": [
+        {
+          "bytes": 629903,
+          "filename": "02-image.jpg",
+          "height": 2839,
+          "mime_type": "image/jpeg",
+          "sha256": "ce82d8b1b23449832e7f23ee6d2df4afb535dc2f8edbaf3b19b8a73898b472a7",
+          "type": "image",
+          "width": 3624
+        },
+        {
+          "bytes": 39206,
+          "filename": "02-thumbnail.webp",
+          "height": 501,
+          "mime_type": "image/webp",
+          "sha256": "c22f15821710c24ab4f629e4934470283d9998bdecb652be330fcf92a000d46e",
+          "type": "thumbnail",
+          "width": 640
+        }
+      ],
+      "index": 2,
+      "kind": "image"
+    }
+  ],
+  "music": null,
+  "pk": "4035034474593121803",
+  "published_at_taipei": "2026-11-21T12:00:14+08:00",
+  "published_at_utc": "2026-11-21T04:00:14Z",
+  "schema_version": 2,
+  "shared_post": null,
+  "text": null
+}
